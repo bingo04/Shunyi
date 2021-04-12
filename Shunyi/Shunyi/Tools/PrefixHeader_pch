@@ -1,0 +1,64 @@
+
+//  Created by macremote on 13/9/18.
+//  Copyright © 2018年 MAC. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//第三方
+#import <MBProgressHUD.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <Toast/UIView+Toast.h>
+#import <MJExtension/MJExtension.h>
+#import <UIImageView+WebCache.h>
+#import <IQKeyboardManager/IQKeyboardManager.h>
+
+
+
+#import "BaseViewController.h"
+
+//
+////分类&工具类
+//#import "CGGDateManager.h"
+//#import "CGGTabView.h"
+//#import "CGGGlobleManager.h"
+//#import "UIViewController+CH_Alert.h"
+//#import "CGGBaseViewController.h"
+//#import "UIImage+Category.h"
+//#import "MKMapView+ZoomLevel.h"
+//#import "WGS84TOGCJ02.h"
+//#import "UIButton+Category.h"
+//#import "NSBundle+Language.h"
+//#import "M18LanguageManager.h"
+//#import "M18DownloadFileManager.h"
+//#import "NSData+Base64.h"
+//#import "CGGReachabilityManager.h"
+//#import "UIViewController+StateView.h"
+//#import "NSString+RemoveEmoji.h"
+//#import "CGGAnnotation.h"
+//#import "CGGBeacon.h"
+//#import "CGGAuthorizationManager.h"
+//#import "NSString+LocalizedString.h"
+//#import "CGGBpushManager.h"
+//#import "NSTimer+WeakTarget.h"
+//#import "TDTouchID.h"
+//#import "NSDictionary+Extension.h"
+//#import "SecurityTextField.h"
+//#import "UIView+ShakeAnimation.h"
+//#import "CGGFMDBManager.h"
+//
+////宏定义
+//#import "CGGStoryboardHeader.h"
+//#import "CGGMacroDefinition.h"
+//#import "CGGURLStrings.h"
+//#import "CGGUserDefaultsKeys.h"
+//#import "CGGLocalizableStrings.h"
+
+#endif
+
+
+
+
+
+
