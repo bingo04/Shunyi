@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="M5f-xf-3I9">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17505"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Main Tab Bar Controller-->
+        <scene sceneID="WC4-TB-Oar">
+            <objects>
+                <tabBarController id="M5f-xf-3I9" customClass="XSMainTabBarController" sceneMemberID="viewController">
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="5Kq-Uo-00c">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="2U9-A9-5QK" kind="relationship" relationship="viewControllers" id="IVv-BB-zw8"/>
+                        <segue destination="dRd-2B-DVb" kind="relationship" relationship="viewControllers" id="I3z-Os-bgG"/>
+                        <segue destination="pmf-9G-Aju" kind="relationship" relationship="viewControllers" id="g2Q-p6-mzm"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hKG-rK-Bcj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1167" y="106"/>
+        </scene>
+        <!--首页-->
+        <scene sceneID="S3L-9L-bdN">
+            <objects>
+                <navigationController id="2U9-A9-5QK" customClass="XSNavigationViewController" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="首页" image="home" selectedImage="home_select" id="ayt-B7-RKQ"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="tZh-9d-huj">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" red="0.26274509800000001" green="0.72156862749999995" blue="0.63921568630000003" alpha="1" colorSpace="calibratedRGB"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="XBq-qv-35A" kind="relationship" relationship="rootViewController" id="jps-NN-73l"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Dcy-sO-OZa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="223" y="-593"/>
+        </scene>
+        <!--HomeViewController-->
+        <scene sceneID="XPA-4c-g0v">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Home" referencedIdentifier="HomeViewController" id="XBq-qv-35A" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="gA9-GZ-71v"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PFK-6D-YL5" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1137" y="-631"/>
+        </scene>
+        <!--分类-->
+        <scene sceneID="dQW-a3-45n">
+            <objects>
+                <navigationController id="dRd-2B-DVb" customClass="XSNavigationViewController" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="分类" image="category" selectedImage="category_select" id="VJp-gx-dDy"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="qcP-9j-2s2">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" red="0.26274509800000001" green="0.72156862749999995" blue="0.63921568630000003" alpha="1" colorSpace="calibratedRGB"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="4Yg-zk-dIL" kind="relationship" relationship="rootViewController" id="0QU-xw-Bdo"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="UEq-yg-7s0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="222" y="123"/>
+        </scene>
+        <!--CategoryViewController-->
+        <scene sceneID="Fgr-jX-8yh">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Category" referencedIdentifier="CategoryViewController" id="4Yg-zk-dIL" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="ch4-GL-uck"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qLg-PT-yD5" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1164" y="27"/>
+        </scene>
+        <!--我的-->
+        <scene sceneID="znN-Qn-aIg">
+            <objects>
+                <navigationController id="pmf-9G-Aju" customClass="XSNavigationViewController" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="我的" image="my" selectedImage="my_select" id="KcN-I4-b7R"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="oO9-0t-hgU">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" red="0.26274509800000001" green="0.72156862749999995" blue="0.63921568630000003" alpha="1" colorSpace="calibratedRGB"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="VTf-fW-loL" kind="relationship" relationship="rootViewController" id="duP-BF-88s"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qI6-TF-m12" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="222" y="834"/>
+        </scene>
+        <!--UserInfoViewController-->
+        <scene sceneID="4N0-51-cLm">
+            <objects>
+                <viewControllerPlaceholder storyboardName="UserInfo" referencedIdentifier="UserInfoViewController" id="VTf-fW-loL" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="FoL-x8-Ran"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="rbk-ac-FXJ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1314" y="817"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="category" width="24" height="24"/>
+        <image name="category_select" width="24" height="24"/>
+        <image name="home" width="24" height="24"/>
+        <image name="home_select" width="24" height="24"/>
+        <image name="my" width="24" height="24"/>
+        <image name="my_select" width="24" height="24"/>
+    </resources>
+</document>

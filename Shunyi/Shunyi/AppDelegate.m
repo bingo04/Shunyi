@@ -20,7 +20,7 @@
     // Override point for customization after application launch.
     
     // 是否已经登录
-    [self setRootViewController:@"Login"];
+    [self setRootViewController:@"HomePage"];
     
     return YES;
 }
