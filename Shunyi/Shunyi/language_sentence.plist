@@ -1,0 +1,3393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>提示</key>
+	<array>
+		<string>提示</string>
+		<string>Notice</string>
+		<string>Aviso</string>
+		<string>Info</string>
+		<string>tip</string>
+		<string>Rapid</string>
+		<string>подсказки</string>
+		<string>avis</string>
+		<string>Avviso</string>
+		<string>varsel</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>蓝牙没有打开</key>
+	<array>
+		<string>蓝牙没有打开，请在手机设置页面打开蓝牙</string>
+		<string>Mobile Bluetooth is not open, Please open it and try again</string>
+		<string>La conexión Bluetooth no está activada. Por favor, actívela e inténtelo de nuevo</string>
+		<string>Bluetooth ist nicht eingeschalten. Bitte aktivieren Sie Bluetooth und versuchen Sie es erneut. </string>
+		<string>bluetooth neotevřeli, prosím otevři bluetooth nastavení stránky v mobilu.</string>
+		<string>Bluetooth oprit, vă rugăm porniți bluetooth-ul din meniul telefonului</string>
+		<string>Bluetooth  не  открыть  ,  пожалуйста,  в  телефон  страницы настройки  открыть  bluetooth</string>
+		<string>Le Bluetooth de votre téléphone n&apos;est pas activé. Veuillez l&apos;activer et essayer de nouveau</string>
+		<string>Bluetooth non si apre, aprire Bluetooth nella pagina delle impostazioni del telefono</string>
+		<string>Bluetooth er ikke på, Vennligst åpne Bluetooth-enheten og prøv igjen</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>不支持蓝牙</key>
+	<array>
+		<string>手机不支持蓝牙，请选用iPhone 4s以上的版本</string>
+		<string>Your Mobile does not support Bluetooth, Please use iphone 4s or above </string>
+		<string>Tu iPhone no soporta Bluetooth, por favor, utilice un iPhone 4s o superior</string>
+		<string>Ihr Gerät wird nicht unterstützt. Bitte benutzen Sie ein iPhone 4S oder höher.</string>
+		<string>telefon pro iphone, bluetooth, prosím 4s dává více verzí</string>
+		<string>Suportă telefoane cu IOS 5 sau mai nou</string>
+		<string>телефон  не поддерживает  bluetooth,  пожалуйста,  выбрать  iPhone  4s  выше вариант </string>
+		<string>Votre téléphone mobile n&apos;est pas compatible, veuillez utiliser un Iphone 4S ou une autre version ultérieure</string>
+		<string>il vostro smartphone non supporta il bluetooth. Si prega di usare la versione Android 4.3 o superiore</string>
+		<string>Din mobil støtter ikke Bluetooth, vennligst bruk en telefon som støtter Bluetooth.</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>设备没有响应</key>
+	<array>
+		<string>设备没有响应</string>
+		<string>Balance scooter has no response</string>
+		<string>smartGyro no responde</string>
+		<string>Das Balance Board reagiert nicht. </string>
+		<string>zařízení bez odezvy.</string>
+		<string>Scooterul nu răspunde</string>
+		<string>оборудование  не отвечает</string>
+		<string>Le scooter ne répond pas</string>
+		<string>L&apos;Hoverboard non risponde ai comandi</string>
+		<string>Classywalk responderer ikke</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>手动开机</key>
+	<array>
+		<string>平衡车只允许使用手机关机，不允许用手机开机</string>
+		<string>Balance scooter can be turned off by APP, but turn on by APP is not allowed</string>
+		<string>El smartGyro se puede apagar a través de la aplicación, pero no se puede encender</string>
+		<string>Das Balance Board kann via App ausgeschalten, jedoch nicht eingeschalten werden. </string>
+		<string>použití je povoleno pouze rovnováhu auto telefon zapnutý telefon, nesmíme používat</string>
+		<string>Balance scooterul se poate opri din telefon, dar nu se poate porni</string>
+		<string>баланс машины  разрешено использование только  мобильный телефон выключен  ,  не разрешается использовать  телефон </string>
+		<string>Vous pouvez éteindre le scooter avec l&apos;application mais vous ne pouvez pas le démarrer </string>
+		<string>E&apos; possibile spegnere l&apos;Hoverboard tramite l&apos;APP ma non è possibile accenderlo</string>
+		<string>Classywalk kan skrus av med applikasjonen, det er ikke tillatt å skru på med applikasjonen.</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>手机关机</key>
+	<array>
+		<string>手机关闭设备失败，请重新再试</string>
+		<string>Shutdown failed, please try again</string>
+		<string>Error al apagar el smartGyro, por favor, inténtelo de nuevo</string>
+		<string>Das Ausschalten funktioniert nicht. Bitte versuchen Sie es später erneut. </string>
+		<string>vypněte mobily zařízení selhalo, prosím, znovu zkusit</string>
+		<string>Oprirea scooterului a eșuat, vă rugăm reîncercați</string>
+		<string>телефон  не  закрыть  оборудования  , пожалуйста,  попробуйте снова </string>
+		<string>Nous n&apos;avons pas pu éteindre le scooter, veuillez réessayer</string>
+		<string>Spegnimento fallito, si prega di riprovare.</string>
+		<string>Det fungerte ikke å skru av Classywalken, prøv igjen.</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>充电不允许唤醒</key>
+	<array>
+		<string>设备充电状态，不允许唤醒</string>
+		<string>Balance scooter is charging and not allowed to turn on</string>
+		<string>El smartgyro se está cargando y no puede encenderse</string>
+		<string>Das Balance Board wird gerade aufgeladen und darf nicht aus dem Stand-by  </string>
+		<string>zařízení se nesmí probudit nabití</string>
+		<string>Scooterul se încarcă, pornirea interzisă</string>
+		<string>зарядки устройства  государства  ,  не позволяет  разбудить</string>
+		<string>Le scooter est en charge, vous ne pouvez pas le démarrer</string>
+		<string>L&apos;Hoverboard è sotto carica e non è possibile accenderlo.</string>
+		<string>Classywalk er til lading og er ikke tillatt å slå på</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>设备没有连接</key>
+	<array>
+		<string>设备没有连接</string>
+		<string>Bluetooth has been disconnected</string>
+		<string>Se ha desconectado la conexión Bluetooth </string>
+		<string>Bluetooth-Verbindung wurde getrennt.</string>
+		<string>zařízení žádnou spojitost</string>
+		<string>Dispozitivul nu este conectat</string>
+		<string>Нет  подключения  оборудования</string>
+		<string>Le Bluetooth est connecté</string>
+		<string>IL dispositivo non ha connessione</string>
+		<string>Bluetooth er koblet fra</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>设备正常</key>
+	<array>
+		<string>车子正常</string>
+		<string>Main parts are no problem</string>
+		<string>No se presentan problemas</string>
+		<string>Keine Fehler gefunden.</string>
+		<string>auto je normální</string>
+		<string>Scooterul este în stare bună de funcționare</string>
+		<string>машина  нормально</string>
+		<string>Aucun problème détecté</string>
+		<string>Le parti principali non presentano problemi</string>
+		<string>Hoveddelene har ingen problemer</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>好</key>
+	<array>
+		<string>好</string>
+		<string>OK</string>
+		<string>OK</string>
+		<string>Ok</string>
+		<string>může</string>
+		<string>bine</string>
+		<string>Хорошо</string>
+		<string>OK</string>
+		<string>Buona</string>
+		<string>ok</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>车子运行不准关机</key>
+	<array>
+		<string>车子正在骑行，不允许关机。</string>
+		<string>Balance board is riding and not allowed to turn off</string>
+		<string>No puede apagarlo mientras esté en movimiento</string>
+		<string>Das Balance Board ist gerade in Betrieb und darf nicht ausgeschalten werden. </string>
+		<string>auto se jízdy, není dovoleno je vypnutý.</string>
+		<string>Scooterul este în mișcare, nu este permisă oprirea acestuia</string>
+		<string>В настоящее время  на  машину  ,  не позволяет  выключить.</string>
+		<string>Impossible d&apos;éteindre en pleine course</string>
+		<string>L&apos;Hoverboard è in movimento e non è possibile spegnerlo.</string>
+		<string>Ikke tillat å slå av når du kjører</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>车子充电不关机</key>
+	<array>
+		<string>车子正在充电，不允许关机。</string>
+		<string>Balance board is charging and not allowed to turn off</string>
+		<string>Mientras se está cargando no puede apagarse</string>
+		<string>Das Balance Board wird gerade aufgeladen und darf nicht eingeschalten werden.</string>
+		<string>- auto se nesmí vypnutý.</string>
+		<string>Scooterul se încarcă, nu este permisă oprirea acestuia</string>
+		<string>В настоящее время  зарядки  машины  ,  не позволяет  выключить.</string>
+		<string>Le scooter est en charge, vous ne pouvez pas l&apos;éteindre</string>
+		<string>L&apos;Hoverboard è sotto carica e non è possibile spegnerlo.</string>
+		<string>Classywalk er til lading og er ikke tillatt å slå av</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>车子运行不休眠</key>
+	<array>
+		<string>车子正在运行，不允许休眠。</string>
+		<string>Balance board is riding and not allowed to standby</string>
+		<string>No está permitido el modo standby mientras esté en movimiento</string>
+		<string>Das Balance Board ist gerade in Betrieb und darf nicht in den Stand-by Modus gesetzt werden. </string>
+		<string>auto jede, neumožňuje nečinný.</string>
+		<string>Scooter în mișcare, oprire interzisă</string>
+		<string>машина  работает,  не позволяет  сна</string>
+		<string>Le scooter est en charge, vous ne pouvez pas l&apos;éteindre</string>
+		<string>L&apos;Hoverboard è in movimento e non è possibile metterlo in standby.</string>
+		<string>Classywalken kjører og er ikke lov til å stå i standby</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>车子充电不开机</key>
+	<array>
+		<string>车子正在充电，不允许开机</string>
+		<string>Balance scooter is charging and not alllowed to turn on</string>
+		<string>No puede encenderse mientras esté cargando </string>
+		<string>Das Balance Board wird gerade aufgeladen und darf daher nicht in Betrieb genommen werden. </string>
+		<string>auto se nabíjí, nesmí napětí</string>
+		<string>Scooterul se încarcă, nu este permisă pornirea acestuia</string>
+		<string>В настоящее время  зарядки  машины  ,  не позволяет  загрузки</string>
+		<string>Le scooter est en charge, vous ne pouvez pas le démarrer</string>
+		<string>L&apos;Hoverboard è sotto carica e non è possibile accenderlo.</string>
+		<string>Classywalk lades og ikke tillatt å slå på</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>车子运行不设置速度</key>
+	<array>
+		<string>车子行驶速度大于2km/h不允许设置速度.</string>
+		<string>It&apos;s not allowed to set the limit speed when the riding speed is over 2km/h</string>
+		<string>No está permitido establecer la velocidad máxima cuando la velocidad actual supera los 2 km/h</string>
+		<string>Es ist nicht möglich die Maximum Geschwindikeit während der Fahrt einzustellen. </string>
+		<string>auto jedoucí rychlostí vyšší než 2km/h není možné stanovit rychlost....</string>
+		<string>Viteza scoterului este mai mare de 2 km/h. Nu este permisă schimbarea vitezei</string>
+		<string>машину  2km/h  не  позволяет установить  скорость движения  превышает  скорость  . </string>
+		<string>Il est impossible de définir la vitesse limite lorsque la vitesse est supérieure à 2KM/H</string>
+		<string>Non è possibile impostare la velocità limite se si sta andando ad una velocità superiore a 2km/h</string>
+		<string>Det er ikke tillatt å stille inn hastigheten når kjøreturen går over 2 km / t</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>车子运行不能儿童模式</key>
+	<array>
+		<string>车子正在骑行不允许切换为儿童模式，请下车再试</string>
+		<string>It&apos;s not allowed to changed to Children mode when riding. Pleases get off and try again</string>
+		<string>No se puede cambiar a &quot;modo niños&quot; cuando está en movimiento. Por favor, apáguelo y vuelva a intentarlo.</string>
+		<string>Es ist nicht erlaubt während er Fahrt auf den Kindermodus zu wechseln. Bitte steigen Sie ab und versuchen
+Sie es erneut. </string>
+		<string>auto se nesmí změnit způsob jízdy pro děti, prosím tě...</string>
+		<string>Utilizatorul nu este autorizat să comute în modul dedicat copiilor. Coborâți și încercați din nou</string>
+		<string>В настоящее время  не  позволяет  ездить  машина  переключается на  режим для детей  ,  пожалуйста,  попробуйте  выйти </string>
+		<string>Il est impossible de passer au mode &quot;enfant&quot; en pleine utilisation. Veuillez vous arrêter et essayer de nouveau</string>
+		<string>Non è possibile impostare la modalità bambino durante la guida. Si prega di scendere e riprovare.</string>
+		<string>Det er ikke tillatt å bytte til barnemodus når du kjører. Gå av og prøv igjen</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>有人移动了车子</key>
+	<array>
+		<string>警告，有人移动了车子</string>
+		<string>Warning, someone is moving the self balance scooter</string>
+		<string>Precaución, alguien está moviendo el smartGyro</string>
+		<string>Warnung: Ihr Balance Board wurde bewegt</string>
+		<string>někdo se ho varovat,</string>
+		<string>Atenție, cineva a mutat scooterul</string>
+		<string>Предупреждение  ,  кто - то  переехал  автомобиль</string>
+		<string>Attention, quelqu&apos;un utilise le scooter</string>
+		<string>Attenzione, qualcuno sta muovendo l&apos;Hoverboard</string>
+		<string>Advarsel, noen flytter på Classywalken</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>充电器不匹配</key>
+	<array>
+		<string>充电器和车子不匹配。</string>
+		<string>Using wrong charger</string>
+		<string>Está usando un cargador erróneo</string>
+		<string>Bitte verwenden Sie das richtige Ladegerät. </string>
+		<string>nabíječka a auto se neshodují.</string>
+		<string>Încărcătorul și scooterul nu sunt compatibile</string>
+		<string>зарядное устройство  и машину  не совпадают. </string>
+		<string>Le chargeur n&apos;est pas compatible</string>
+		<string>Alimentatore non idoneo.</string>
+		<string>Bruk av feil lader</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>设备没响应</key>
+	<array>
+		<string>设备无响应。</string>
+		<string>Device no response.</string>
+		<string>El smartGyro no responde</string>
+		<string>Geräte nicht antwortet.</string>
+		<string>zařízení nereaguje.</string>
+		<string>Echipamentul nu răspunde</string>
+		<string>оборудование  не ответ .</string>
+		<string>L&apos;appareil ne répond pas</string>
+		<string>Il dispositivo non risponde.</string>
+		<string>Ingen respons fra enhet.</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>关闭失败</key>
+	<array>
+		<string>关闭车子失败，请重新再试。</string>
+		<string>Closing the car failed, please try again.</string>
+		<string>Se ha producido un error al cerrar el smartGyro, inténtelo de nuevo</string>
+		<string>Der wagen nicht schließen, bitte wieder.</string>
+		<string>mimo auto selhalo, prosím, zase znovu.</string>
+		<string>Oprirea scooterului a esuat, vă rugăm reîncercați</string>
+		<string>Не удалось  закрыть  машину  , пожалуйста,  попробуйте снова.</string>
+		<string>Impossible d&apos;éteindre l&apos;appareil, veuillez essayer de nouveau</string>
+		<string>Spegni l&apos;auto, riprova.</string>
+		<string>Slå av Classywalken, prøv igjen.</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>设备未连接</key>
+	<array>
+		<string>车子未打开，或者蓝牙未连接。</string>
+		<string>Bluetooth has been disconnected</string>
+		<string>Se ha desconectado la conexión Bluetooth</string>
+		<string>Keine Bluetooth Verbindung</string>
+		<string>auto, které je otevřené nebo bez připojení bluetooth.</string>
+		<string>Scooterul este oprit, sau dispozitivul Bluetooth nu este conectat</string>
+		<string>машину  не  открыть  ,  или  bluetooth  не связаны . </string>
+		<string>Le Bluetooth a été déconnecté</string>
+		<string>Bluetooth disconnesso</string>
+		<string>Bluetooth er koblet fra</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>蓝牙未打开</key>
+	<array>
+		<string>蓝牙未打开，请在手机设置中打开蓝牙，然后重新再试。</string>
+		<string>Mobile Bluetooth is not open, Please open it and try again</string>
+		<string>La conexión Bluetooth no está activa. Actívela e inténtalo de nuevo</string>
+		<string>Bluetooth ist nicht eingeschalten. Bitte aktivieren Sie Bluetooth und versuchen Sie es erneut. </string>
+		<string>bluetooth neotevřené, prosím na telefon bluetooth nastavení se otevře a znovu zkusit.</string>
+		<string>Conexiunea bluetooth este oprită! Vă rugăm porniți bluetooth-ul din meniul telefonului și reîncercați.</string>
+		<string>Bluetooth  не  открыть  в  настройки телефона  , пожалуйста,  попробуйте  открыть  bluetooth  , а затем вновь  . </string>
+		<string>Le Bluetooth de votre téléphone n&apos;est pas activé. Veuillez l&apos;activer et essayer de nouveau</string>
+		<string>IL Bluetooth non aprire, per favore, Apri il Bluetooth è al telefono, E POI Di Nuovo a prova Di Nuovo.</string>
+		<string>Mobil Bluetooth er ikke åpen, vennligst åpne den og prøv igjen</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>报警</key>
+	<array>
+		<string>报警信息</string>
+		<string>Warning message</string>
+		<string>Mensaje de advertencia</string>
+		<string>Warnung</string>
+		<string>alarm informace</string>
+		<string>Mesaj de atenționare</string>
+		<string>напоминания </string>
+		<string>Message d&apos;avertissement</string>
+		<string>Messaggio d&apos;allarme</string>
+		<string>Advarselsmelding</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>报警内容</key>
+	<array>
+		<string>休眠状态，有人移动了车子。</string>
+		<string>Warning, someone is moving the self balance scooter</string>
+		<string>Advertencia, alguien está moviendo el smartGyro</string>
+		<string>Warnung: Ihr Balance Board wurde bewegt</string>
+		<string>nečinné, někdo přesunul auto.</string>
+		<string>Cineva a mutat scooterul în timp ce acesta era în modulul repaus</string>
+		<string>состояние сна  ,  кто - то  переехал в  машину. </string>
+		<string>Attention, quelqu&apos;un utilise le scooter</string>
+		<string>Dormiente, qualcuno ha spostato l&apos;auto.</string>
+		<string>Advarsel, noen flytter på Classywalken</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>设备故障</key>
+	<array>
+		<string>设备故障：</string>
+		<string>Equipment failure:</string>
+		<string>Error en smartGyro:</string>
+		<string>Technisches versagen:</string>
+		<string>selhání zařízení:</string>
+		<string>Defecțiune echipament</string>
+		<string>отказ оборудования: </string>
+		<string>Panne d&apos;un composant</string>
+		<string>Guasto dell&apos;apparecchiatura:</string>
+		<string>Utstyrssvikt:</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>主板的左电机电流太大</key>
+	<array>
+		<string>主板的左电机电流太大</string>
+		<string>Left motor is overcurrent</string>
+		<string>Sobrecarga en el motor izquierdo</string>
+		<string>Linker Motor überlastet</string>
+		<string>základní deska levý motor proud je moc velká</string>
+		<string>Amperaj prea mare în placa de bază a motorului drept</string>
+		<string>материнская плата  слишком большой  левого  двигателя ток</string>
+		<string>Le moteur gauche est en surtension</string>
+		<string>Motore di destra in sovratensione</string>
+		<string>Venstre motor overspenning</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>主板电机的右侧电流过大</key>
+	<array>
+		<string>主板电机的右侧电流过大</string>
+		<string>Right motor is overcurrent</string>
+		<string>Sobrecarga en el motor derecho</string>
+		<string>Auf der rechten Seite der Aufsichtsrat über die aktuelle Motor</string>
+		<string>příliš velký na základní motor proud</string>
+		<string>Amperaj prea mare în placa de bază a motorului stâng</string>
+		<string>материнская плата  мотор  справа  в настоящее время слишком большой </string>
+		<string>Le moteur droit est en surtension</string>
+		<string>Motore di sinistra in sovratensione</string>
+		<string>Høyre motor overspenning</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>主板驱动电路错误</key>
+	<array>
+		<string>主板驱动电路错误</string>
+		<string>Motherboard is broken</string>
+		<string>Error de comunicación con la placa base</string>
+		<string>Hauptplatine defekt </string>
+		<string>základní deska řídícím obvodem chyby</string>
+		<string>Eroare a plăcii de bază</string>
+		<string>материнская плата  драйвер  ошибка</string>
+		<string>La carte mère est défectueuse</string>
+		<string>Problemi alla scheda madre</string>
+		<string>Hovedkortet er ødelagt</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>左电机霍尔错误</key>
+	<array>
+		<string>左电机霍尔错误</string>
+		<string>Left motor Holzer error</string>
+		<string>Error en el motor izquierdo</string>
+		<string>Der Linke Motor - Hall - Fehler</string>
+		<string>levý motor hall chyby</string>
+		<string>Defecțiune a motorului stâng</string>
+		<string>Холл,  ошибки  левого  двигателя</string>
+		<string>Erreur sur le moteur gauche</string>
+		<string>Linea di connessione sinitra danneggiata</string>
+		<string>Venstre motor feil</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>电池错误</key>
+	<array>
+		<string>电池错误</string>
+		<string>Battery error</string>
+		<string>Error en la batería</string>
+		<string>Die batterie - Fehler.</string>
+		<string>baterie chyby</string>
+		<string>Eroare baterie</string>
+		<string>батареи  ошибка</string>
+		<string>Erreur sur la Batterie</string>
+		<string>Batteria guasta</string>
+		<string>Batterifeil</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>左板通信错误</key>
+	<array>
+		<string>左板通信错误</string>
+		<string>left circuit board is broken</string>
+		<string>Error al comunicarse con la placa del circuito izquierdo</string>
+		<string>Linke Platine defekt</string>
+		<string>leva komunikační chyba</string>
+		<string>Eroare de comunicare la placa de bază din stânga.</string>
+		<string>Ошибка связи  левой  панели</string>
+		<string>La carte gyropode gauche est défectueuse</string>
+		<string>Scheda di circuito sinistra danneggiata</string>
+		<string>venstre kretskort er ødelagt</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>右侧副板通信错误</key>
+	<array>
+		<string>右侧副板通信错误</string>
+		<string>right circuit board is broken</string>
+		<string>Error al comunicarse con la placa del circuito derecho</string>
+		<string>Rechte Platine defekt</string>
+		<string>vedlejší panel na komunikační chyba</string>
+		<string>Eroare comunicare între plăcile de bază</string>
+		<string>Ошибка связи  заместитель  панели  справа</string>
+		<string>La carte gyropode droite est défectueuse</string>
+		<string>Scheda di circuito destra danneggiata</string>
+		<string>høyre kretskort er ødelagt</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>右电机霍尔错误</key>
+	<array>
+		<string>右电机霍尔错误</string>
+		<string>Right motor Holzer error</string>
+		<string>Error en el motor derecho</string>
+		<string>Der Fehler der rechten Motor Halle</string>
+		<string>pravý motor hall chyby</string>
+		<string>Defecțiune a motorului drept</string>
+		<string>правый  мотор  зал  ошибка </string>
+		<string>Erreur sur le moteur droit</string>
+		<string>Linea di connessione destra danneggiata</string>
+		<string>Høyre motor feil</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>切换语言</key>
+	<array>
+		<string>是否真的切换语言？</string>
+		<string>Do you really want to change language?</string>
+		<string>¿Desea de verdad cambiar el idioma?</string>
+		<string>Sprache wirklich ändern? </string>
+		<string>opravdu změnit jazyky?</string>
+		<string>Schimbați limba?</string>
+		<string>действительно  переключения  языка  ?</string>
+		<string>Voulez-vous vraiment changer de langue</string>
+		<string>Siete sicuri di voler modificare la lingua?</string>
+		<string>Vil du virkelig endre språk?</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>是</key>
+	<array>
+		<string>是</string>
+		<string>yes</string>
+		<string>Sí</string>
+		<string>Ok</string>
+		<string>může</string>
+		<string>e</string>
+		<string>это</string>
+		<string>oui</string>
+		<string>sì</string>
+		<string>ja</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>否</key>
+	<array>
+		<string>否</string>
+		<string>no</string>
+		<string>No</string>
+		<string>Nein</string>
+		<string>ne</string>
+		<string>nu</string>
+		<string>Нет</string>
+		<string>non</string>
+		<string>no</string>
+		<string>nei</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>当前版本</key>
+	<array>
+		<string>当前版本：</string>
+		<string>Current version：</string>
+		<string>Versión actual:</string>
+		<string>Version</string>
+		<string>současná verze:</string>
+		<string>Versiunea curentă</string>
+		<string>текущая версия : </string>
+		<string>Version actuelle:</string>
+		<string>La versione attuale</string>
+		<string>Gjeldende versjon:</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>无网络连接</key>
+	<array>
+		<string>无网络连接。</string>
+		<string>No network</string>
+		<string>Sin red</string>
+		<string>Keine Verbindung. </string>
+		<string>bez připojení k síti.</string>
+		<string>Lipsă conexiune internet</string>
+		<string>без  подключения к сети.</string>
+		<string>Pas de réseau</string>
+		<string>Nessuna rete</string>
+		<string>Ingen nettverk</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>获取版本号错误</key>
+	<array>
+		<string>获取版本号错误，请检查APP ID是否正确.</string>
+		<string>Get the version number error, please check whether the ID APP is correct.</string>
+		<string>Obtenga el error del número de versión, por favor, compruebe si la ID de la aplicación es correcta</string>
+		<string>- číslo verze chyby, prosím, zkontrolujte app id správně....</string>
+		<string>Lipsă conexiune. Nu se pot obține informații despre dispozitiv</string>
+		<string>Ошибка  получения  номер версии  , пожалуйста, проверьте  , правильно ли  App  ID  . </string>
+		<string>Récupérez le numéro de la version en erreur, vérifiez si l&apos;ID de l&apos;application est correcte.</string>
+		<string>Ottieni il numero di versione sbagliato, controlla che l&apos;ID APP sia corretto.</string>
+		<string>Feil versjonnummer, pass på at APP-ID-en er riktig.</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>版本有更新</key>
+	<array>
+		<string>版本有更新</string>
+		<string>Version update</string>
+		<string>Actualización de la versión</string>
+		<string>- versionen aktualisiert</string>
+		<string>aktuální verze</string>
+		<string>Versiunea actuală poate fi actualizată</string>
+		<string>обновление  версии  есть</string>
+		<string>Version update</string>
+		<string>La versione è aggiornata</string>
+		<string>Versjonsoppdatering</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>检测到新版本</key>
+	<array>
+		<string>检测到新版本</string>
+		<string>A new APP version is found, please click to download.</string>
+		<string>Hay una nueva versión de la aplicación. Haga click para descargarla</string>
+		<string>Update wurde gefunden. Bitte hier drücken um update herunterzuladen. </string>
+		<string>testy na novou verzi</string>
+		<string>Versiune nouă găsită</string>
+		<string>в  новой версии  обнаружения</string>
+		<string>Mise à jour de la version</string>
+		<string>È stata rilevata una nuova versione</string>
+		<string>En ny APP-versjon er funnet, vennligst klikk for å laste ned.</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>取消</key>
+	<array>
+		<string>取消</string>
+		<string>cancel</string>
+		<string>Cancelar</string>
+		<string>Abgesagt</string>
+		<string>zrušení</string>
+		<string>anulează</string>
+		<string>отменить </string>
+		<string>Annuler</string>
+		<string>annullato</string>
+		<string>Avbryt</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>更新</key>
+	<array>
+		<string>更新</string>
+		<string>Update Immediately</string>
+		<string>Actualizar inmediatamente</string>
+		<string>Bitte aktualisieren Sie die App unverzüglich. </string>
+		<string>aktualizace</string>
+		<string>actualizarea</string>
+		<string>обновление</string>
+		<string>Mettre à jour immédiatement</string>
+		<string>aggiornare</string>
+		<string>Oppdater umiddelbart</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>是否更新</key>
+	<array>
+		<string>是否更新?</string>
+		<string>Whether to update?</string>
+		<string>¿Actualizar?</string>
+		<string>Aktualisieren?</string>
+		<string>bez ohledu na to, zda je aktualizace?</string>
+		<string>dacă o actualizare?</string>
+		<string>Обновлять ли  ?</string>
+		<string>Voulez-vous mettre à jour?</string>
+		<string>È aggiornato?</string>
+		<string>Ønsker du å oppdatere nå?</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>当前版本为最新版本</key>
+	<array>
+		<string>当前版本为最新版本</string>
+		<string>The current version is the latest version</string>
+		<string>El firmware actual es ya la última versión</string>
+		<string>Die aktuellste Version ist installiert</string>
+		<string>v současné verzi pro nejnovější verze</string>
+		<string>Versiunea curentă este cea mai recentă</string>
+		<string>текущая версия  для  последней версии</string>
+		<string>La version actuelle est la dernière version</string>
+		<string>La versione corrente è l&apos;ultima versione</string>
+		<string>Den nåværende versjonen er den nyeste versjonen</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>未知错误</key>
+	<array>
+		<string>未知错误</string>
+		<string>Unknown error</string>
+		<string>Error desconocido</string>
+		<string>Unbekannter Fehler. </string>
+		<string>neznámá chyba</string>
+		<string>Eroare necunoscută</string>
+		<string>Неизвестная ошибка</string>
+		<string>Erreur inconnue</string>
+		<string>Errore sconosciuto</string>
+		<string>Ukjent feil</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>切换蓝牙</key>
+	<array>
+		<string>当前设备蓝牙已连接，确定是否切换蓝牙?</string>
+		<string>Bluetooth is now connected, are you sure changing to another Bluetooth?</string>
+		<string>Bluetooth conectado. ¿Desea cambiar a otra conexión Bluetooth?</string>
+		<string>Bluetooth verbindung Vorhanden. Sind Sie sicher dass Sie auf ein anderes Bluetooth Gerät wechseln möchten? </string>
+		<string>stávající zařízení bluetooth má kontakty, určit, zda přejít bluetooth?</string>
+		<string>Dispozitiv deja conectat, dori să comutați?</string>
+		<string> В настоящее время устройство  bluetooth  связь,  определить, является ли  переключаться  bluetooth? </string>
+		<string>Le Bluetooth n&apos;est pas connecté, êtes-vous sûr de vouloir utiliser un autre Bleutooth?</string>
+		<string>Bluetooth connesso. Siete sicuri di voler cambiare bluetooth?</string>
+		<string>Bluetooth er ikke tilkoblet, er du sikker på at du bytter til en annen Bluetooth?</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>蓝牙连接失败</key>
+	<array>
+		<string>设备连接失败,重新获取设备...</string>
+		<string>Bluetooth connection has failed, please searching again</string>
+		<string>La conexión Bluetooth ha fallado, por favor, inténtalo de nuevo.</string>
+		<string>Bluetooth Verbindung nicht möglich. Bitte versuchen Sie es erneut. </string>
+		<string>zařízení připojené k selhání, znovu získat to zařízení...</string>
+		<string>Eroare la conectare, pentru a conecta din nou echipamentul </string>
+		<string> Ошибка подключения  заново  оборудования  ,  приобретение оборудования  ... </string>
+		<string>La connexion Bluetooth a échoué, recherchez de nouveau</string>
+		<string>Connessione bluetooth fallita, si prega di riprovare.</string>
+		<string>Bluetooth-tilkoblingen har feilet, vennligst søk igjen</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>登陆失败</key>
+	<array>
+		<string>登陆失败，您输入的用户名不正确。</string>
+		<string>Login failed, the user name you entered is incorrect.</string>
+		<string>Inicio de sesión erróneo, el nombre de usuario es incorrecto</string>
+		<string>Die anmeldung fehlschlägt, geben sie den benutzernamen nicht korrekt.</string>
+		<string>vylodění selže, jste zadali uživatelské jméno ne.</string>
+		<string>Autentificare eșuată! Numele de utilizator, introdus, nu este corect</string>
+		<string>посадки  не,  вы ввели  имя пользователя  не  правильно. </string>
+		<string>L&apos;enregistrement a échoué, le nom d&apos;utilisateur est incorrecte</string>
+		<string>Accesso non riuscito, hai immesso il nome utente non corretto.</string>
+		<string>Innlogging mislyktes, brukernavnet du skrev inn er feil.</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>登陆帮助</key>
+	<array>
+		<string>请您找到说明书或者包装上的用户名称,正确输入，并登陆。</string>
+		<string>Please find the user name on the specification or package, enter it correctly, and log in.</string>
+		<string>Busque el nombre de usuario en el manual o paquete, introdúzcalo correctamente e inicie sesión</string>
+		<string>Bitte Finden sie die gebrauchsinformation Oder verpackungen, die user - namen, die korrekte Eingabe, und die Landung.</string>
+		<string>můžete najít informace nebo obalu uživatelská jména, že vstup a přistání.</string>
+		<string>Regăsiți instrucțiuni, nume de utilizator în pachet. Introduce-ți corect și complet</string>
+		<string>Пожалуйста,  вы найдете  инструкции  на упаковке  или  введите  имя пользователя  ,  правильно  , и  посадку. </string>
+		<string>Veuillez treouver le nom d&apos;utilisateur sur les spécifications ou sur la boite, entrez le et connectez vous.</string>
+		<string>Trova il nome utente nel manuale o nel pacchetto, inserirlo correttamente e accedere.</string>
+		<string>Vennligst finn brukernavnet i brukerhåndboken, skriv det riktig og logg inn.</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>休眠提醒</key>
+	<array>
+		<string>车子已经进入休眠状态</string>
+		<string>Balance scooter  is standby</string>
+		<string>El smartGyro está en standby</string>
+		<string>Das Balance Board ist im Stand-by Modus.</string>
+		<string>auto je nečinné</string>
+		<string>Scooterul a intrat în modul repaus</string>
+		<string>машина  уже  в состояние сна</string>
+		<string>Le scooter est en attente</string>
+		<string>Hoverboard in standby</string>
+		<string>Classywalk er standby</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>关机提醒</key>
+	<array>
+		<string>车子进入关机状态</string>
+		<string>Balance scooter is off</string>
+		<string>El smartGyro está apagado</string>
+		<string>Das Balance Board ist ausgeschaltet</string>
+		<string>auto do vypnutý stav</string>
+		<string>Scooterul a intrat în modul oprire</string>
+		<string>машину  в  остановки государства</string>
+		<string>Le scooter est déconnecté</string>
+		<string>Hoverboard spento</string>
+		<string>Classywalk er avskrudd</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>设置成功</key>
+	<array>
+		<string>设置成功</string>
+		<string>Set sucessfully</string>
+		<string>Configuración correcta</string>
+		<string>Beschränkung aktiviert</string>
+		<string>nastavte úspěch</string>
+		<string>de stabilire a reuşit</string>
+		<string>Параметры успеха</string>
+		<string>Paramétré avec succès</string>
+		<string>Impostato con successo</string>
+		<string>Sett vellykket</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>连接成功</key>
+	<array>
+		<string>连接成功</string>
+		<string>Connected</string>
+		<string>Conectado</string>
+		<string>Verbunden</string>
+		<string>úspěšném připojení</string>
+		<string>în legătură cu succes</string>
+		<string>Успешное соединение</string>
+		<string>Connecté</string>
+		<string>IL successo di collegamento</string>
+		<string>Tilkoblet</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>左边副板</key>
+	<array>
+		<string>左边副板</string>
+		<string>Left circuit board</string>
+		<string>Placa del circuito</string>
+		<string>Linke Platine</string>
+		<string>na levé straně nežádoucí</string>
+		<string>stânga farfurie</string>
+		<string>Вице  Совет  слева</string>
+		<string>Carte gyropode gauche</string>
+		<string>Scheda circuito sinistra </string>
+		<string>Venstre kretskort</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>左副板与主板通信线路</key>
+	<array>
+		<string>左副板与主板通信线路</string>
+		<string>Left connection line</string>
+		<string>Línea de izquierda</string>
+		<string>Linke Verbindung</string>
+		<string>Komunikační linky</string>
+		<string>partea stângă şi placa de bază de comunicare</string>
+		<string>материнская плата  левого  заместитель  Совета и  линии связи</string>
+		<string>Connexion gauche</string>
+		<string>Linea di connessione sinistra</string>
+		<string>Venstre tilkoblingslinje</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>主板</key>
+	<array>
+		<string>主板</string>
+		<string>Motherboard</string>
+		<string>La placa madre</string>
+		<string>Hauptplatine</string>
+		<string>základní deska</string>
+		<string>Placa de bază</string>
+		<string>материнская плата</string>
+		<string>La carte mère est défectueuse</string>
+		<string>Scheda madre</string>
+		<string>Hovedkortet er ødelagt</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>右副板与主板通信线路</key>
+	<array>
+		<string>右副板与主板通信线路</string>
+		<string>Right connection line</string>
+		<string>Línea de derecha</string>
+		<string>Rechte Verbindung</string>
+		<string>Komunikační linky</string>
+		<string>adjunct dreapta şi placa de bază de comunicare</string>
+		<string>Вице  Совет  и  Совет  правой  линии связи</string>
+		<string>Connexion droite</string>
+		<string>Lnea di connessione destra</string>
+		<string>Høyre tilkoblingslinje</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>右边副板</key>
+	<array>
+		<string>右边副板</string>
+		<string>Right circuit board</string>
+		<string>Adjunto a la</string>
+		<string>Rechte Platine</string>
+		<string>vedlejší panel vpravo.</string>
+		<string>pe farfurie</string>
+		<string>Вице  Совет  справа</string>
+		<string>Carte gyropode droite</string>
+		<string>Scheda circuito destra</string>
+		<string>høyre kretskort</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>右边电机</key>
+	<array>
+		<string>右边电机</string>
+		<string>Right motor</string>
+		<string>Motor derecho</string>
+		<string>Rechter Motor</string>
+		<string>na pravé straně motoru.</string>
+		<string>Motorul din dreapta</string>
+		<string>правый  двигатель</string>
+		<string>Moteur droit</string>
+		<string>Motore di destra</string>
+		<string>Høyre motor</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>电池</key>
+	<array>
+		<string>电池</string>
+		<string>Battery</string>
+		<string>Batería</string>
+		<string>Akku</string>
+		<string>Baterie</string>
+		<string>Baterie</string>
+		<string>батарея</string>
+		<string>Batterie</string>
+		<string>Batteria</string>
+		<string>Batteri</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>左边电机</key>
+	<array>
+		<string>左边电机</string>
+		<string>Left motor</string>
+		<string>Motor izquierdo</string>
+		<string>Linker Motor</string>
+		<string>levý motor.</string>
+		<string>motorul din stânga</string>
+		<string>левый  двигатель</string>
+		<string>Moteur gauche</string>
+		<string>Motore di sinistra</string>
+		<string>Venstre motor</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>车型不匹配</key>
+	<array>
+		<string>您连接的车型不匹配.</string>
+		<string>The model you connected does not match.</string>
+		<string>El modelo que conectó no coincide</string>
+		<string>Sie verbinden den fahrzeugtyp nicht übereinstimmen.</string>
+		<string>vám připojení vozidla neodpovídá....</string>
+		<string>te - ai conectat de vehicul nu se potrivesc.</string>
+		<string>Вы соединены  моделей  не совпадают </string>
+		<string>Le véhicule de connexion ne correspondent pas.</string>
+		<string>I modelli connessi non corrispondono</string>
+		<string>Modellen du koblet til, samsvarer ikke.</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>不支持该操作</key>
+	<array>
+		<string>持该操作，请重启车子再试</string>
+		<string>This operation is not supported. Please restart your car and try again</string>
+		<string>No soportado. Por favor, reinicie su smartGyro e inténtelo de nuevo</string>
+		<string>Nicht für die Operation, starten sie bitte das Auto noch</string>
+		<string>ne na podporu této operace, prosím, znovu to auto,</string>
+		<string>te rog să nu sprijin această operaţiune, din nou.</string>
+		<string>Эта операция не поддерживается  машину  , пожалуйста,  попробуйте  Перезагрузить</string>
+		<string>Avec cette opération, redémarrer la voiture essayer</string>
+		<string>Non tenere l&apos;operazione, riavviare l&apos;auto e riprovare</string>
+		<string>Denne operasjonen støttes ikke. Vennligst start Classywalken og prøv igjen</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>网络加载升级文件失败,请连接网络</key>
+	<array>
+		<string>网络加载升级文件失败,请连接网络!</string>
+		<string>The network load upgrade file failed. Please connect to the network</string>
+		<string>Error al descargar la actualización. Por favor, conéctese a la red</string>
+		<string>Netzwerk - upgrade - dateien nicht, bitte im Netz</string>
+		<string>- selhání sítě propojené sítě aktualizovat dokumenty, prosím.</string>
+		<string>rețeaua de încărcare la dosar, nu, te rog, legate de rețea</string>
+		<string>сетевой загрузки  обновления файла  не, пожалуйста,  подключения к сети </string>
+		<string>Réseau de charger le fichier de mise à jour de l&apos;échec de connexion de réseau, s&apos;il vous plaît!</string>
+		<string>File di aggiornamento di caricamento di rete non riuscito, si prega di collegarsi alla rete!</string>
+		<string>Nettverksbelastningsoppgraderingsfilen mislyktes. Vennligst koble til nettverket</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>目录还未加载完成,请稍后</key>
+	<array>
+		<string>目录还未加载完成,请稍后!</string>
+		<string>The catalog is not loaded yet. Please wait a moment</string>
+		<string>El catálogo aún no se ha cargado. Por favor, espere un momento</string>
+		<string>Der Katalog IST noch nicht fertig, bitte warten</string>
+		<string>katalog není nabitá dokončit později, prosím</string>
+		<string>directorul nu e încărcat, te rog</string>
+		<string>каталог  не  загружается,  пожалуйста, подождите </string>
+		<string>Répertoire n&apos;est pas encore fini de charger, s&apos;il vous plaît!</string>
+		<string>File di aggiornamento di caricamento di rete non riuscito, si prega di collegarsi alla rete!</string>
+		<string>Katalogen er ikke lastet ennå. Vennligst vent et øyeblikk</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>无更新文件</key>
+	<array>
+		<string>无更新文件</string>
+		<string>No update file</string>
+		<string>No hay fichero de actualización</string>
+		<string>Kein update - datei</string>
+		<string>bez aktualizace dokumentů</string>
+		<string>fără dosarul actualizat</string>
+		<string>без  обновления файлов </string>
+		<string>Pas de fichier de mise à jour</string>
+		<string>Nessun file di aggiornamento</string>
+		<string>Ingen oppdateringsfil</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>请选择更新文件</key>
+	<array>
+		<string>请选择更新文件</string>
+		<string>Please select update file</string>
+		<string>Por favor seleccione el fichero de actualización</string>
+		<string>Bitte wählen sie die update - datei</string>
+		<string>prosím vyberte aktualizovanou dokumentaci</string>
+		<string>te rog, alege să actualizeze documentele</string>
+		<string>Пожалуйста, выберите  Файл Обновить</string>
+		<string>Veuillez sélectionner le fichier de mise à jour</string>
+		<string>Seleziona il file di aggiornamento</string>
+		<string>Vennligst velg oppdateringsfil</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>是否真的升级设备固件程序</key>
+	<array>
+		<string>是否真的升级设备固件程序</string>
+		<string>Do you really upgrade device firmware?</string>
+		<string>¿Desea actualizar el firmware?</string>
+		<string>Die aktualisierung der Geräte, ob wirklich der firmware</string>
+		<string>postup aktualizace firmwaru, jestli opravdu zařízení</string>
+		<string>e un program de modernizare a echipamentelor</string>
+		<string>действительно ли  обновления  микропрограммы устройства </string>
+		<string>Si le programme de Micrologiciel de dispositif de mise à jour vraiment</string>
+		<string>Sia veramente aggiornato il programma firmware del dispositivo</string>
+		<string>Oppgraderer du virkelig firmware for enheten?</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>升级数据发送超时</key>
+	<array>
+		<string>升级数据发送超时!</string>
+		<string>Upgrade data send timeout!</string>
+		<string>Ha finalizado el tiempo de envío de datos para la actualización</string>
+		<string>Aktualisierung der Daten senden sollte.</string>
+		<string>aktualizovat údaje předány timeout!</string>
+		<string>actualizarea datelor transmise time - out!</string>
+		<string>Отправить  обновление  данных  аут  ! </string>
+		<string>La temporisation de transmission de données de mise à jour!</string>
+		<string>Aggiornare i dati inviare timeout!</string>
+		<string>Oppgrader data send timeout!</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>没发现主板升级文件请检查网络</key>
+	<array>
+		<string>没发现主板升级文件，请检查网络</string>
+		<string>The motherboard upgrade file was not found. Please check the network</string>
+		<string>No se ha encontrado ninguna actualización para la placa base, por favor, compruebe que está conectado a la red</string>
+		<string>Nicht, dass der Aufsichtsrat update - datei, bitte überprüfen sie die Netzwerk -</string>
+		<string>základní dokument o modernizaci sítí, účet, prosím.</string>
+		<string>n - am găsit placa de bază de la dosar, verifică reţeaua</string>
+		<string>материнская плата  не  обнаружили, что  обновление файлов  ,  пожалуйста, проверьте  сети </string>
+		<string>Pas de trouver le fichier de mise à jour de carte mère, veuillez vérifier le réseau</string>
+		<string>Non è stato trovato il file di aggiornamento della scheda madre, controlla la rete</string>
+		<string>Hovedkortoppgraderingsfilen ble ikke funnet. Vennligst sjekk nettverket</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>没发现副板升级文件请检查网</key>
+	<array>
+		<string>没发现副板升级文件，请检查网</string>
+		<string>No secondary board upgrade files found. Check the network, please</string>
+		<string>No se han encontrado actualizaciones para la placa secundaria. Compruebe la red</string>
+		<string>Nicht, dass der Vorstand update - datei, überprüfen sie bitte die netze</string>
+		<string>to, že modernizace vedlejší panel dokumenty, prosím, zkontrolujte sítě</string>
+		<string>n - am găsit sub bord la dosar, verifică.</string>
+		<string>Вице  Совет  не нашел  обновить файл  ,  пожалуйста, проверьте  сети </string>
+		<string>Pas de trouver le fichier de mise à jour de la plaque auxiliaire, veuillez vérifier le réseau</string>
+		<string>Il file di aggiornamento del viceboard non è stato trovato, controllare la rete</string>
+		<string>Ingen sekundære kartoppgraderingsfiler funnet. Sjekk nettverket, vær så snill</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>数据长度有错误</key>
+	<array>
+		<string>数据长度有错误</string>
+		<string>Error in data length</string>
+		<string>Error en la longitud de los datos</string>
+		<string>Die länge der Fehler</string>
+		<string>údaje o délce špatně</string>
+		<string>lungimea datelor eroare</string>
+		<string>длина  данных  ошибки </string>
+		<string>Il y a une erreur de longueur de données</string>
+		<string>La lunghezza dei dati non è corretta</string>
+		<string>Feil i datalengde</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>下载失败请检查网络</key>
+	<array>
+		<string>下载失败，请检查网络</string>
+		<string>The download failed. Please check the network</string>
+		<string>La descarga ha fallado. Por favor, compruebe si está conectado a la red</string>
+		<string>Der download fehlgeschlagen, bitte überprüfen sie die Netzwerk -</string>
+		<string>prosím, zkontrolujte si selhání sítě,</string>
+		<string>a descărcat, verifică reţeaua</string>
+		<string>Не удалось загрузить  ,  пожалуйста, проверьте  сети </string>
+		<string>Le téléchargement a échoué. Veuillez vérifier le réseau</string>
+		<string>Il download non è riuscito, controlla la rete</string>
+		<string>Nedlastingen mislyktes. Vennligst sjekk nettverket</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>认证失败升级终止</key>
+	<array>
+		<string>认证失败，升级终止</string>
+		<string>Authentication failed and upgrade terminated</string>
+		<string>La autentificación ha fallado y la actualización ha finalizado</string>
+		<string>Die authentifizierung fehlschlägt, upgrades beendet</string>
+		<string>osvědčení o ukončení modernizace selhala</string>
+		<string>nu de autentificare și încetarea</string>
+		<string>Ошибка аутентификации  ,  прекращения  эскалации</string>
+		<string>L&apos;authentification a échoué, la mise à jour de terminaison</string>
+		<string>L&apos;autenticazione non è riuscita e l&apos;aggiornamento è stato terminato</string>
+		<string>Autentisering mislyktes og oppgraderingen avsluttet</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>硬件未能升级就绪升级终止</key>
+	<array>
+		<string>硬件未能升级就绪，升级终止</string>
+		<string>The hardware could not be upgraded and the upgrade terminated</string>
+		<string>El hardware no se pudo actualizar y la actualización ha finalizado</string>
+		<string>Die hardware nicht beendet ist ein upgrade,</string>
+		<string>při ukončení modernizace zařízení je připraveno na modernizaci</string>
+		<string>hardware - ul nu este încheiată și modernizarea</string>
+		<string>Не удалось  обновить  оборудование  для модернизации  готов  ,  прекращения </string>
+		<string>Le matériel n&apos;est pas prêt de fin de mise à jour, la mise à jour</string>
+		<string>L&apos;hardware non riesce ad aggiornare e l&apos;aggiornamento viene terminato</string>
+		<string>Maskinvaren kunne ikke oppgraderes og oppgraderingen ble avsluttet</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>验证设备没响应</key>
+	<array>
+		<string>验证设备没响应</string>
+		<string>The authentication device did not respond</string>
+		<string>La autentificación del smartGyro no responde</string>
+		<string>überprüfung der Geräte nicht reagiert</string>
+		<string>ověřit, že zařízení bez odezvy</string>
+		<string>dispozitivul de verificare nu a răspuns</string>
+		<string>проверка  оборудования  не  ответ </string>
+		<string>Le dispositif de vérification n&apos;a pas donné de réponse</string>
+		<string>Verificare che il dispositivo non risponda</string>
+		<string>Autentiseringsenheten reagerte ikke</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>进入升级设备没响应</key>
+	<array>
+		<string>进入升级设备没响应!</string>
+		<string>The upgrade device did not respond!</string>
+		<string>¡La actualización del dispositivo no responde!</string>
+		<string>In die modernisierung von ausrüstung nicht antworten!</string>
+		<string>do modernizace zařízení není odpověď!</string>
+		<string>în modernizarea echipamentelor nu răspunde!</string>
+		<string>в  модернизации  оборудования  не  ответ  ! </string>
+		<string>Dans la mise à niveau de l&apos;équipement n&apos;a pas de réponse!</string>
+		<string>Nel dispositivo di aggiornamento non ha risposto!</string>
+		<string>Oppgraderingsenheten reagerte ikke!</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>进入升级设备超时</key>
+	<array>
+		<string>进入升级设备超时</string>
+		<string>Upgrade device timeout</string>
+		<string>Se ha agotado el tiempo de espera en la actualización del smartGyro</string>
+		<string>In die modernisierung von ausrüstung überstunden</string>
+		<string>do modernizace zařízení &quot;</string>
+		<string>în modernizarea echipamentelor.</string>
+		<string>обновление  оборудования  в  аут </string>
+		<string>Dans le dispositif de mise à jour de temporisation</string>
+		<string>Inserisci il timeout del dispositivo di aggiornamento</string>
+		<string>Oppgrader tidsavbrudd for enheten</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>主板升级文件太大</key>
+	<array>
+		<string>主板升级文件太大,暂时不能大于40K</string>
+		<string>The motherboard upgrade file is too large to be larger than 40K for the time being</string>
+		<string>El archivo de actualización de la placa base es demasiado grande</string>
+		<string>- upgrade - datei IST zu Groß, kann vorübergehend mehr ALS 40k</string>
+		<string>modernizace základní soubor je tak velký, že dočasně, nemůže být vyšší než 40K</string>
+		<string>dosarul de la placa de bază este prea mare, nu poate fi mai mare de 40.000</string>
+		<string>материнская плата  обновить  файл слишком большой  ,  временно  не может быть больше, чем  40k </string>
+		<string>La carte - mère le fichier de mise à jour est trop grande, temporairement, ne peut être supérieure à 40000</string>
+		<string>Il file di aggiornamento della scheda madre è troppo grande, temporaneamente non può essere superiore a 40K</string>
+		<string>Hovedkortoppgraderingsfilen er for stor til å være større enn 40k for tiden</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>文件格式有问题</key>
+	<array>
+		<string>文件格式有问题</string>
+		<string>There is a problem with the file format</string>
+		<string>Hay un problema con el formato del archivo</string>
+		<string>Format Hat probleme</string>
+		<string>formát souboru má problém</string>
+		<string>are probleme cu formatul</string>
+		<string>формат файла  есть  проблемы </string>
+		<string>Le format de fichier en question</string>
+		<string>Esiste un problema con il formato di file</string>
+		<string>Det er et problem med filformatet</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>进入主板编程模式无响应</key>
+	<array>
+		<string>进入主板编程模式，无响应</string>
+		<string>Into the motherboard programming mode, no response</string>
+		<string>No hay respuesta en el modo de programación de la placa base</string>
+		<string>In den Aufsichtsrat - programmier - modus, keine antwort</string>
+		<string>žádná odpověď na základní model programování,</string>
+		<string>în principal o programare, nu răspunde.</string>
+		<string>войти в  режим программирования  без  платы  ,  ответ</string>
+		<string>Dans un mode de programmation de la carte - mère, pas de réponse</string>
+		<string>Nella modalità di programmazione della scheda madre, nessuna risposta</string>
+		<string>I hovedkort programmeringsmodus, ingen respons</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>升级终止程序备份失败</key>
+	<array>
+		<string>升级终止，程序备份失败</string>
+		<string>The upgrade terminated and the program backup failed</string>
+		<string>La actualización ha terminado y el programa de backup ha fallado</string>
+		<string>Upgrade beendet, - Programm die unterstützung versagt</string>
+		<string>modernizace řízení ukončeno, záložní selhání</string>
+		<string>program de rezervă nu se încheie,</string>
+		<string>прекращение  программы  модернизации  ,  не резервного копирования </string>
+		<string>Fin de la procédure de sauvegarde de l&apos;échec de la mise à jour,</string>
+		<string>Nella modalità di programmazione della scheda madre, nessuna risposta</string>
+		<string>Oppgraderingen ble avsluttet og programoppdateringen mislyktes</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>升级终止文件传输CRC校准错误</key>
+	<array>
+		<string>升级终止，文件传输CRC校准错误</string>
+		<string>Upgrade terminated. File transfer CRC calibration error</string>
+		<string>Actualización finalizada. Error de calibración CRC en la transferencia de archivos</string>
+		<string>Upgrade beendet, file - Transfer - CRC - Fehler</string>
+		<string>ukončit přenos souborů crc modernizace, špatně</string>
+		<string>- da, de îmbunătăţire a expirat, transmitere de documente false</string>
+		<string>обновление  прекращения  передачи файлов  ошибок  CRC  калибровки  , </string>
+		<string>La mise à jour de terminaison, d&apos;erreur d&apos;étalonnage CRC de transfert de fichier</string>
+		<string>L&apos;aggiornamento viene terminato, l&apos;errore di calibrazione CRC di trasferimento file</string>
+		<string>Oppgradering avsluttet. Filoverføring CRC-kalibreringsfeil</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>升级终止当中程序文件不符合</key>
+	<array>
+		<string>升级终止，当中程序文件不符合</string>
+		<string>The upgrade terminated and the program file was out of order</string>
+		<string>La actualización ha finalizado y el archivo del programa ha estado fuera de servicio</string>
+		<string>Upgrade - Verfahren eingestellt - datei nicht MIT.</string>
+		<string>modernizace mezi dokumenty nesplňují ukončení řízení</string>
+		<string>care nu respectă procedurile de încheiere</string>
+		<string>прекращение  программы  модернизации  ,  среди  документов  не соответствует </string>
+		<string>La mise à jour de terminaison, parmi des fichiers de programme n&apos;est pas conforme</string>
+		<string>L&apos;aggiornamento viene terminato, in cui il file di programma non corrisponde</string>
+		<string>Oppgraderingen ble avsluttet, og programfilen var ute av drift</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>升级终止程序写入读出不对应</key>
+	<array>
+		<string>升级终止，程序写入读出，不对应</string>
+		<string>The upgrade terminates and the program writes, reads, does not correspond</string>
+		<string>La actualización ha finalizado pero la escritura y la lectura del programa no se corresponden</string>
+		<string>Upgrade beendet, schreiben, LESEN nicht entsprechend Verfahren.</string>
+		<string>modernizace postupů při ukončení zápisu, které neodpovídají</string>
+		<string>în program scrie un upgrade de încheiere, nu corespunde</string>
+		<string>прекращение  программы  модернизации  ,  читать, писать  ,  не  соответствующие</string>
+		<string>Fin de la procédure de mise à jour, de lecture - écriture, ne correspondant pas</string>
+		<string>L&apos;aggiornamento per terminare, il programma scritto per leggere, non corrisponde</string>
+		<string>Oppgraderingen slutter og programmet skriver, leser, samsvarer ikke</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>设备数据校验和擦写没响应</key>
+	<array>
+		<string>设备数据校验和擦写没响应</string>
+		<string>The equipment data check and erase no response</string>
+		<string>La verificación y el borrado de los datos no responden</string>
+		<string>Geräte Daten überprüfen und schreiben nicht reagiert</string>
+		<string>údaje o zařízení na kontrolu a</string>
+		<string>echipamente de verificare și șterse nu a răspuns</string>
+		<string>оборудование для  проверки данных  и  стирать  не  ответ </string>
+		<string>Dispositif de vérification d&apos;effacement de données et pas de réponse</string>
+		<string>Cancellazione checksum dei dati dispositivo non risponde</string>
+		<string>Utstyrsdataene kontrollerer og sletter ikke noe svar</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>副板升级文件太大</key>
+	<array>
+		<string>副板升级文件太大,暂时不能大于27K</string>
+		<string>The secondary board upgrade file is too large to be larger than 27K for the time being</string>
+		<string>El archivo de actualización de la placa secundaría es demasiado grande</string>
+		<string>Stellvertretender Vorstand upgrade - datei IST zu Groß, die vorübergehend nicht mehr ALS 27K</string>
+		<string>modernizace vedlejší panel soubor je tak velký, že dočasně, nemůže být vyšší než 27K</string>
+		<string>- documentele consiliului de actualizare este prea mare, nu mai erau</string>
+		<string>Вице  Совет  обновить  файл слишком большой  ,  временно  не может быть больше, чем  27K </string>
+		<string>Le fichier de mise à niveau de la plaque auxiliaire est trop grande, temporairement, ne peut être supérieure à 27K</string>
+		<string>Il file di aggiornamento della scheda secondaria è troppo grande, temporaneamente non può essere superiore a 27K</string>
+		<string>Den sekundære brønnoppgraderingsfilen er for stor til å være større enn 27k for tiden</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>进入副板编程模式无响应</key>
+	<array>
+		<string>进入副板编程模式，无响应</string>
+		<string>Into the sub board programming mode, no response</string>
+		<string>El modo de programación de la placa secundaria no responde</string>
+		<string>In den Vorstand der programmplanung, keine antwort</string>
+		<string>do vedlejší panel model programování, bez odezvy</string>
+		<string>modelul de programare în farfurie, nu răspunde.</string>
+		<string>В  ответ  заместитель  Совета  режим программирования  ,  без </string>
+		<string>Dans un mode de programmation de la plaque auxiliaire, sans réponse</string>
+		<string>Nel modo di programmazione del sotto-bordo, nessuna risposta</string>
+		<string>I underbrettet programmeringsmodus, ingen respons</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>副板程序校准失败请重新再试</key>
+	<array>
+		<string>副板程序校准失败，请重新再试</string>
+		<string>The sub board calibration failed. Please try again</string>
+		<string>La calibración de la placa secundaria ha fallado. Por favor, inténtelo de nuevo</string>
+		<string>Zur kalibrierung der vize - Vorstand nicht, bitte versuchen sie es erneut</string>
+		<string>postup kalibrace zástupce na porážku, prosím, znovu zkusit</string>
+		<string>procedura de etalonare nu farfurie, te rog, încearcă din nou</string>
+		<string>Вице  Совет  процедуры  калибровки  не, пожалуйста,  попробуйте снова </string>
+		<string>La procédure d&apos;étalonnage de la plaque auxiliaire de l&apos;échec, veuillez ré - essayer</string>
+		<string>La taratura del programma di sottocarta non è riuscita, riprova</string>
+		<string>Kalibrering av underkortet mislyktes. Vær så snill, prøv på nytt</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>主板写入副板过程中副板没有响应</key>
+	<array>
+		<string>主板写入副板过程中，副板没有响应</string>
+		<string>The secondary board does not respond to the motherboard when it is written to the secondary board</string>
+		<string>La placa secundaria no responde a la placa base cuando se escriben datos en la placa secundaria</string>
+		<string>Aufsichtsrat, Vorstand BEI schreiben vize, vize - Vorstand nicht reagiert</string>
+		<string>v průběhu základní vedlejší desky, zástupce desky bez odezvy.</string>
+		<string>tabloul de bord în timpul scris sub farfurie nu a răspuns,</string>
+		<string>материнская плата  в процессе  записи  вице  Совет  ,  Совет  не отвечает  заместитель </string>
+		<string>La carte - mère dans un processus d&apos;écriture sous - plaque, plaque accessoire ne répond pas</string>
+		<string>Quando la scheda madre è scritta nella scheda secondaria, la scheda slave non risponde</string>
+		<string>Sekretærstyret reagerer ikke på hovedkortet når det er skrevet til sekundærstyret</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>升级文件错误</key>
+	<array>
+		<string>升级文件错误</string>
+		<string>Update file error</string>
+		<string>Error al actualizar el fichero</string>
+		<string>Update - datei Fehler</string>
+		<string>modernizace v papírech</string>
+		<string>eroare</string>
+		<string>Ошибка  обновления  файлов</string>
+		<string>Le fichier de mise à jour d&apos;erreur</string>
+		<string>Aggiorna l&apos;errore di un file</string>
+		<string>Oppdater filfeil</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>主板写入副板过程中CRC校准失败</key>
+	<array>
+		<string>主板写入副板过程中CRC校准失败</string>
+		<string>The CRC calibration failed during the motherboard write to the secondary</string>
+		<string>Error de calibración CRC durante la escritura de la placa base en la placa secundaria</string>
+		<string>Aufsichtsrat, Vorstand bei der kalibrierung der vize der CRC schreiben gescheitert</string>
+		<string>základní desky v průběhu porážky u crc kalibrace</string>
+		<string>vice - principal este scris în procesul de aliniere a eşuat</string>
+		<string>материнская плата  писать  в процессе  калибровки  не  КПР  заместитель  плита </string>
+		<string>La carte d&apos;étalonnage dans le processus d&apos;écriture sous - plaque d&apos;échec de CRC</string>
+		<string>La calibrazione CRC non è riuscita mentre la scheda madre stava scrivendo alla scheda secondaria</string>
+		<string>CRC-kalibrering mislyktes under hovedkortet til sekundæret</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>主板写入副板过程中出现未知错误</key>
+	<array>
+		<string>主板写入副板过程中,出现未知错误</string>
+		<string>An unknown error occurred during the motherboard writing to the secondary board</string>
+		<string>Error desconocido durante la escritura de la placa base en la placa secundaria</string>
+		<string>Der vize - Vorstand BEI schreiben, unbekannten Fehler</string>
+		<string>u základní desky v procesu objevil neznámou chybu</string>
+		<string>tabloul de bord în timpul scrie vice, eroare necunoscută</string>
+		<string>материнская плата  вице  Совет  в процессе  записи  ,  неизвестная ошибка </string>
+		<string>La carte - mère dans un processus d&apos;écriture de la plaque auxiliaire, une erreur s&apos;est produite</string>
+		<string>La calibrazione CRC non è riuscita mentre la scheda madre stava scrivendo alla scheda secondaria</string>
+		<string>En ukjent feil oppstod under hovedkortet til sekundærstyret</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>主板程序写入副板超时</key>
+	<array>
+		<string>主板程序写入副板超时</string>
+		<string>The motherboard program writes to the secondary board timeout</string>
+		<string>Se ha agotado el tiempo en la escritura de la placa base en la placa secundaria</string>
+		<string>Der Aufsichtsrat der stellvertretende Vorstand timeout anwendungen zu schreiben.</string>
+		<string>základní desky ve vedlejší řízení &quot;</string>
+		<string>placa de bază în program scrie sub bord.</string>
+		<string>материнская плата  программа записи  вице  Совет  сверхурочные </string>
+		<string>La carte des procédures écrites dans la carte auxiliaire de temporisation</string>
+		<string>Il programma della scheda madre scrive al timeout del bordo secondario</string>
+		<string>Hovedkortprogrammet skriver til sekundærstyrets timeout</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>升级成功,车子即将关机</key>
+	<array>
+		<string>升级成功,车子即将关机</string>
+		<string>The upgrade is successful and the car is about to shut down</string>
+		<string>Éxito al actualizar, el smartGyro se apagará</string>
+		<string>Die aktualisierung erfolgreich, das Auto IST abschalten</string>
+		<string>úspěch je modernizace, auto se</string>
+		<string>&quot;a fost un succes, maşina se închide</string>
+		<string>успех  предстоящей  модернизации  ,  остановки  машина </string>
+		<string>Mise à niveau de succès, la voiture est éteint</string>
+		<string>Migliorare il successo, l&apos;auto sta per arrestare</string>
+		<string>Oppgraderingen er vellykket og bilen er i ferd med å slå av</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>设置无响应</key>
+	<array>
+		<string>设置无响应</string>
+		<string>Set no response</string>
+		<string>La configuración no responde</string>
+		<string>Liegt keine antwort</string>
+		<string>nastavení bez odezvy</string>
+		<string>fără răspuns</string>
+		<string>Настройки  без  реагирования </string>
+		<string>Sont disposés sans réponse</string>
+		<string>Impostare nessuna risposta</string>
+		<string>Sett ingen respons</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>蓝牙断开升级失败</key>
+	<array>
+		<string>蓝牙断开升级失败</string>
+		<string>Bluetooth disconnected, upgrade failed</string>
+		<string>Se ha desconectado la conexión Bluetooth. Fallo al actualizar</string>
+		<string>Bluetooth abgeschaltet, die eskalation nicht</string>
+		<string>bluetooth odpojit, modernizace selhala</string>
+		<string>- deconectează upgrade</string>
+		<string>Bluetooth  отключен,  обновление не удалось </string>
+		<string>La déconnexion de l&apos;échec de la mise à jour de Bluetooth</string>
+		<string>La disconnessione Bluetooth non è riuscita</string>
+		<string>Bluetooth frakoblet, oppgradering mislyktes</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>还原成功车子即将关机</key>
+	<array>
+		<string>还原成功,车子即将关机.</string>
+		<string>Restore success, the car is about to shutdown</string>
+		<string>Reestablecida conexión, el smartGyro está a punto de apagarse</string>
+		<string>Wieder erfolgreich, und das Auto IST abschalten</string>
+		<string>snížení bude úspěšný, je auto</string>
+		<string>a reuşit, maşina se închide</string>
+		<string>сокращение  успех  , машина  отключается </string>
+		<string>Réduction de succès, la voiture est éteint.</string>
+		<string>Ripristinare il successo della macchina sta per arrestare.</string>
+		<string>Gjenopprett suksess, bilen er i ferd med å avslutte</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>程序没有升级更新不需要还原</key>
+	<array>
+		<string>程序没有升级更新，不需要还原</string>
+		<string>Restore success, the car is about to shutdown</string>
+		<string>Reestablecida conexión, el smartGyro está a punto de apagarse</string>
+		<string>Wieder erfolgreich, und das Auto IST abschalten</string>
+		<string>snížení bude úspěšný, je auto</string>
+		<string>a reuşit, maşina se închide</string>
+		<string>сокращение  успех  , машина  отключается </string>
+		<string>Pas de procédures de mise à jour, et ne nécessite pas de réduction</string>
+		<string>Il programma non dispone di un aggiornamento di aggiornamento e non è necessario ripristinare</string>
+		<string>Gjenopprett suksess, bilen er i ferd med å avslutte</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>硬件准备未就绪</key>
+	<array>
+		<string>硬件准备未就绪，下车或者检查设备故障，还原失败</string>
+		<string>Hardware preparation is not ready, get off or check equipment failure, restore failed</string>
+		<string>El hardware no está listo, si se apaga o se produce un error, el reestablecimiento fallará</string>
+		<string>Vorbereitung der hardware ist nicht bereit, die aussteigen Oder ausrüstung überprüfen schuld, wieder gescheitert</string>
+		<string>zařízení na kontrolu nejsou připraveny, vypadni nebo snížení selhání selhání zařízení.</string>
+		<string>echipamentul e gata să fie gata, pleacă sau verificarea vina, a esuat</string>
+		<string> оборудования готовы  выйти  не готов  ,  или проверить  неисправности оборудования,  восстановление не </string>
+		<string>Préparation de matériel n&apos;est pas prêt, descendez de voiture ou de vérifier la défaillance de l&apos;équipement, la réduction de l&apos;échec</string>
+		<string>L&apos;hardware non è pronto, scendere o controllare l&apos;errore dell&apos;apparecchio, ripristinare il guasto</string>
+		<string>Maskinvareforberedelse er ikke klar, gå av eller sjekk utstyrssvikt, gjenoppretting mislyktes</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>设备没有响应或者设备不支持该操作</key>
+	<array>
+		<string>设备没有响应,或者设备不支持该操作</string>
+		<string>The device is not responding, or the device does not support this operation</string>
+		<string>El smartGyro no responde o el dispositivo no soporta está operación</string>
+		<string>Geräte nicht reagieren, oder der Geräte nicht für die Operation</string>
+		<string>zařízení nebo zařízení na podporu této operace,</string>
+		<string>dispozitivul nu răspund sau nu sprijină funcționarea echipamentelor</string>
+		<string>оборудование  не отвечает  или  оборудования  ,  эта операция не поддерживается </string>
+		<string>Dispositif de non - réponse, ou dispositif de ne pas soutenir cette opération</string>
+		<string>Il dispositivo non risponde o il dispositivo non supporta l&apos;operazione</string>
+		<string>Enheten svarer ikke, eller enheten støtter ikke denne operasjonen</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>是否真的还原设备固件程序</key>
+	<array>
+		<string>是否真的还原设备固件程序</string>
+		<string>Do you really want to restore the device firmware?</string>
+		<string>¿Desea restaurar el firmware del smartGyro?</string>
+		<string>Wirklich verringerung der Geräte - firmware</string>
+		<string>snížení nebo řízení, zda opravdu zařízení</string>
+		<string>e un program de dispozitiv de reducere</string>
+		<string>действительно ли  сокращение аппарата  микропрограммы </string>
+		<string>Appareil de réduction de programme Micrologiciel vraiment</string>
+		<string>Sia che il firmware del dispositivo sia veramente ripristinato</string>
+		<string>Vil du virkelig gjenopprette firmware for enheten?</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>密码认证失败</key>
+	<array>
+		<string>密码认证失败</string>
+		<string>Password authentication failed</string>
+		<string>La contraseña de autentificación ha fallado</string>
+		<string>Passwort - authentifizierung gescheitert</string>
+		<string>heslo pro porážku</string>
+		<string>parola.</string>
+		<string>пароль  аутентификации не </string>
+		<string>L&apos;échec d&apos;authentification de mot de passe</string>
+		<string>L&apos;autenticazione della password non è riuscita</string>
+		<string>Passordautentisering mislyktes</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>密码不能为空</key>
+	<array>
+		<string>密码不能为空</string>
+		<string>Password cannot be empty</string>
+		<string>El campo de contraseña no puede estar vacío</string>
+		<string>Ein passwort ist nicht Leer</string>
+		<string>heslo pro prázdné.</string>
+		<string>parola nu e gol.</string>
+		<string>Пароль не может быть пустым</string>
+		<string>Le mot de passe ne doit pas être vide</string>
+		<string>La password non può essere vuota</string>
+		<string>Passordet kan ikke være tomt</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>旧密码认证没有通过</key>
+	<array>
+		<string>旧密码认证没有通过</string>
+		<string>Old password authentication did not pass</string>
+		<string>Error al escribir la contraseña antigua</string>
+		<string>Das alte passwort - authentifizierung nicht durch</string>
+		<string>staré heslo prostřednictvím osvědčení č.</string>
+		<string>vechiul cod de autentificare nu prin</string>
+		<string>старый  пароль аутентификации  не  через</string>
+		<string>Il n&apos;y a pas de certification par l&apos;ancien mot de passe</string>
+		<string>L&apos;autenticazione di vecchia password non viene passata</string>
+		<string>Gammel passordautentisering passerte ikke</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>两次新密码不一致,请重新输入</key>
+	<array>
+		<string>两次新密码不一致,请重新输入</string>
+		<string>The two new password does not match. Please re-enter it</string>
+		<string>Las contraseñas no coinciden. Por favor escríbalas nuevamente</string>
+		<string>Zwei neUe Codes nicht MIT, geben sie wieder</string>
+		<string>dvě nové heslo nesrovnalosti, prosím, zadejte</string>
+		<string>noua parolă de două ori nu sunt de acord, te rog.</string>
+		<string>два раза  не  единогласно  новый пароль  , пожалуйста, введите </string>
+		<string>Ne coïncident pas deux fois le nouveau mot de passe, s&apos;il vous plaît.</string>
+		<string>Due nuove password sono incoerenti, per favore reinserite</string>
+		<string>De to nye passordene stemmer ikke overens. Vennligst skriv det på nytt</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>密码修改成功</key>
+	<array>
+		<string>密码修改成功</string>
+		<string>Password changes succeeded</string>
+		<string>Cambio de contraseña realizado</string>
+		<string>Passwort ändern erfolgreich</string>
+		<string>heslo se mění úspěch</string>
+		<string>parola de succes</string>
+		<string>Изменить пароль  успешно </string>
+		<string>De modification de mot de passe avec succès</string>
+		<string>La password è stata modificata correttamente</string>
+		<string>Passordendringer lyktes</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>密码输入不能为空</key>
+	<array>
+		<string>密码输入不能为空</string>
+		<string>Password input cannot be empty</string>
+		<string>El campo de contraseña no puede estar vacío</string>
+		<string>Passwort - Eingabe nicht Leer</string>
+		<string>zadejte heslo pro prázdné.</string>
+		<string>parola nu e gol.</string>
+		<string>Пароль  не может быть пустым </string>
+		<string>L&apos;entrée de mot de passe ne doit pas être vide</string>
+		<string>L&apos;immissione di password non può essere vuota</string>
+		<string>Passordinngang kan ikke være tomt</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>疆游商城</key>
+	<array>
+		<string>疆游商城</string>
+		<string>GyroorMall</string>
+		<string>GyroorMall</string>
+		<string>GyroorMall</string>
+		<string></string>
+		<string></string>
+		<string>пограничный торговый город </string>
+		<string>GyroorMall</string>
+		<string>GyroorMall</string>
+	</array>
+	<key>欢迎您</key>
+	<array>
+		<string>欢迎您:</string>
+		<string>Welcome</string>
+		<string>Le invitamos a:</string>
+		<string>Willkommen</string>
+		<string></string>
+		<string></string>
+		<string> Добро пожаловать:</string>
+		<string>Vous êtes les bienvenus:</string>
+		<string>Benvenuto:</string>
+	</array>
+	<key>检查最新固件</key>
+	<array>
+		<string>检查最新固件</string>
+		<string>Check the latest firmware</string>
+		<string>Compruebe el último firmware</string>
+		<string>Überprüfen Sie die neueste Firmware</string>
+		<string></string>
+		<string></string>
+		<string>Проверь последнюю прошивку</string>
+		<string>Vérifiez le dernier firmware</string>
+		<string>Controlla le ultime realizzazioni</string>
+	</array>
+	<key>用户反馈</key>
+	<array>
+		<string>用户反馈</string>
+		<string>User feedback</string>
+		<string>Comentarios de los usuarios</string>
+		<string>Feedback der Benutzer</string>
+		<string></string>
+		<string></string>
+		<string>Обратная связь пользователей</string>
+		<string>Commentaires des utilisateurs</string>
+		<string>Feedback degli utenti</string>
+	</array>
+	<key>联系我们</key>
+	<array>
+		<string>联系我们</string>
+		<string>Contact us</string>
+		<string>contáctenos</string>
+		<string>Kontakt Wir</string>
+		<string></string>
+		<string></string>
+		<string>Свяжись с нами.</string>
+		<string>contactez-nous</string>
+		<string>contattateci</string>
+	</array>
+	<key>更多</key>
+	<array>
+		<string>更多</string>
+		<string>More</string>
+		<string>más</string>
+		<string>Sonstige</string>
+		<string></string>
+		<string></string>
+		<string>больш</string>
+		<string>Davantage de</string>
+		<string>più</string>
+	</array>
+	<key>退出</key>
+	<array>
+		<string>退出</string>
+		<string>Sign out</string>
+		<string>salida</string>
+		<string>Melden Sie sich</string>
+		<string></string>
+		<string></string>
+		<string>выход</string>
+		<string>Le retrait</string>
+		<string>uscita</string>
+	</array>
+	<key>亚马逊商城</key>
+	<array>
+		<string>亚马逊商城</string>
+		<string>Amazon</string>
+		<string>Amazon mall</string>
+		<string>Amazon Mall</string>
+		<string></string>
+		<string></string>
+		<string>Торговый центр амазонки</string>
+		<string>Amazon mall</string>
+		<string>Amazon business city</string>
+	</array>
+	<key>近期开放，敬请期待</key>
+	<array>
+		<string>近期开放，敬请期待</string>
+		<string>Please look forward to the opening in the near future</string>
+		<string>Abierto próximamente</string>
+		<string>Bitte freuen Sie sich auf die Eröffnung in naher Zukunft</string>
+		<string></string>
+		<string></string>
+		<string>Открытие в ближайшее время, с нетерпением жду</string>
+		<string>Ouvert prochainement, restez attentif</string>
+		<string>Apertura a breve termine. Siate sintonizzati</string>
+	</array>
+	<key>淘宝商城</key>
+	<array>
+		<string>淘宝商城</string>
+		<string>Tmall</string>
+		<string>Taobao mall</string>
+		<string>Tmall</string>
+		<string></string>
+		<string></string>
+		<string>Торговый центр taobao</string>
+		<string>Taobao mall</string>
+		<string>Posta taobao</string>
+	</array>
+	<key>相关产品</key>
+	<array>
+		<string>相关产品</string>
+		<string>Related products</string>
+		<string>Productos relacionados</string>
+		<string>Verwandte Produkte</string>
+		<string></string>
+		<string></string>
+		<string>Соответствующий продукт</string>
+		<string>Produit concerné</string>
+		<string>I mercati rilevanti del prodotto</string>
+	</array>
+	<key>未选择</key>
+	<array>
+		<string>未选择</string>
+		<string>No choice</string>
+		<string>No seleccionado</string>
+		<string>Keine Wahl</string>
+		<string></string>
+		<string></string>
+		<string>Выбора нет.</string>
+		<string>Non sélectionné</string>
+		<string>Non scegliere</string>
+	</array>
+	<key>未知类型</key>
+	<array>
+		<string>未知类型</string>
+		<string>unknown type</string>
+		<string>Tipo desconocido</string>
+		<string>unbekannter Typ</string>
+		<string></string>
+		<string></string>
+		<string>Неизвестный тип</string>
+		<string>Type inconnu</string>
+		<string>Tipo sconosciuto</string>
+	</array>
+	<key>选择产品类型</key>
+	<array>
+		<string>选择产品类型</string>
+		<string>Select product type</string>
+		<string>Seleccione el tipo de producto</string>
+		<string>Wählen Sie den Produkttyp</string>
+		<string></string>
+		<string></string>
+		<string>Выбирать тип продукции</string>
+		<string>Choix du type de produit</string>
+		<string>Scelta del tipo di prodotto</string>
+	</array>
+	<key>反馈内容</key>
+	<array>
+		<string>反馈内容</string>
+		<string>Feedback content</string>
+		<string>Contenido de los comentarios</string>
+		<string>Inhalt der Rückmeldungen</string>
+		<string></string>
+		<string></string>
+		<string>Содержание обратной связи</string>
+		<string>Contenu des retours d’information</string>
+		<string>Feedback contenuto</string>
+	</array>
+	<key>不超过100字</key>
+	<array>
+		<string>不超过100字</string>
+		<string>No more than 100 words</string>
+		<string>No más de 100 palabras</string>
+		<string>Nicht mehr als hundert Worte</string>
+		<string></string>
+		<string></string>
+		<string>Не больше 100 слов</string>
+		<string>Pas plus de 100 mots</string>
+		<string>Non più di 100 parole</string>
+	</array>
+	<key>反馈信息(最多输入100字)</key>
+	<array>
+		<string>反馈信息(最多输入100字)</string>
+		<string>Feedback (up to 100 words)</string>
+		<string>Información de retroalimentación (hasta 100 palabras)</string>
+		<string>Feedback (bis zu 100 Wörter)</string>
+		<string></string>
+		<string></string>
+		<string>Обратная информация (введите до 100 слов)</string>
+		<string>Retour d’information (100 mots au maximum)</string>
+		<string>Informazione di ritorno (massimo 100 parole)</string>
+	</array>
+	<key>您的联系方式</key>
+	<array>
+		<string>您的联系方式</string>
+		<string>Your contact information</string>
+		<string>Su información de contacto</string>
+		<string>Ihre Kontaktdaten</string>
+		<string></string>
+		<string></string>
+		<string>Ваши контакты</string>
+		<string>Vos coordonnées</string>
+		<string>I vostri indirizzi</string>
+	</array>
+	<key>说明:您提交的反馈信息我们会尽快将处理结果通过您提交的联系方式反馈给您邮箱，请你留意联系方式。</key>
+	<array>
+		<string>说明:您提交的反馈信息我们会尽快将处理结果通过您提交的联系方式反馈给您邮箱，请你留意联系方式。</string>
+		<string>Note: the feedback information you submitted will be fed back to your email as soon as possible through the contact information you submitted. Please pay attention to the contact information</string>
+		<string>Descripción: los comentarios que usted ha enviado serán enviados a su correo electrónico a través de la información de contacto que usted ha enviado. por favor, tenga en cuenta la información de contacto.</string>
+		<string>Hinweis: Die von Ihnen übermittelten Rückmeldungen werden so schnell wie möglich über die von Ihnen übermittelten Kontaktdaten an Ihre E-Mail weitergeleitet. Bitte beachten Sie die Kontaktdaten.</string>
+		<string></string>
+		<string></string>
+		<string>Инструкция: информация о обратной связи, которую вы предоставили, будет передана по вашему почтовому ящику в кратчайшие сроки с помощью контактной информации, которую вы предоставили.</string>
+		<string>Note explicatif. nous transmettrons le résultat du traitement à votre adresse électronique dès que possible par le biais des coordonnées que vous avez envoyées.</string>
+		<string>Nota: le informazioni che avete inviato a seguito del vostro feedback saranno trasmesse quanto prima alla vostra mailbox tramite i contatti che avete inviato.</string>
+	</array>
+	<key>相关照片或视频。</key>
+	<array>
+		<string>相关照片或视频。</string>
+		<string>Relevant photos or videos.</string>
+		<string>Fotos o videos relacionados.</string>
+		<string>Relevante Fotos oder Videos.</string>
+		<string></string>
+		<string></string>
+		<string>Фотографии или видео.</string>
+		<string>Photos ou vidéos pertinentes.</string>
+		<string>Foto o video pertinenti.</string>
+	</array>
+	<key>提交</key>
+	<array>
+		<string>提交</string>
+		<string>Submission</string>
+		<string>presentación</string>
+		<string>Einreichung</string>
+		<string></string>
+		<string></string>
+		<string>представ</string>
+		<string>Présenté par le</string>
+		<string>presentazione</string>
+	</array>
+	<key>电话:</key>
+	<array>
+		<string>电话:</string>
+		<string>Telephone</string>
+		<string>Teléfono:</string>
+		<string>Telefon</string>
+		<string></string>
+		<string></string>
+		<string>Телефон:</string>
+		<string>Tél</string>
+		<string>Telefono:</string>
+	</array>
+	<key>网址</key>
+	<array>
+		<string>网址</string>
+		<string>Website</string>
+		<string>El sitio web</string>
+		<string>Webseite</string>
+		<string></string>
+		<string></string>
+		<string>ссылк</string>
+		<string>Le site</string>
+		<string>Il sito web</string>
+	</array>
+	<key>邮箱</key>
+	<array>
+		<string>邮箱</string>
+		<string>Email</string>
+		<string>Email</string>
+		<string>Email</string>
+		<string></string>
+		<string></string>
+		<string>Почтов ящик</string>
+		<string>Email</string>
+		<string>cassetta</string>
+	</array>
+	<key>地址</key>
+	<array>
+		<string>地址</string>
+		<string>address</string>
+		<string>dirección</string>
+		<string>Adresse</string>
+		<string></string>
+		<string></string>
+		<string>адрес</string>
+		<string>adresse</string>
+		<string>indirizzo</string>
+	</array>
+	<key>确认退出当前账号？</key>
+	<array>
+		<string>确认退出当前账号？</string>
+		<string>Confirm to exit the current account?</string>
+		<string>Confirmar la salida de la cuenta actual?</string>
+		<string>Bestätigen Sie den Ausgang des Kontos?</string>
+		<string></string>
+		<string></string>
+		<string>Подтвердить выход из текущего счета?</string>
+		<string>Confirmer la sortie du compte actuel?</string>
+		<string>Conferma dell’uscita dal numero di conto corrente?</string>
+	</array>
+	<key>注册</key>
+	<array>
+		<string>注册</string>
+		<string>Register</string>
+		<string>El registro</string>
+		<string>Register</string>
+		<string></string>
+		<string></string>
+		<string>зарегистрирова</string>
+		<string>l’enregistrement</string>
+		<string>registrazione</string>
+	</array>
+	<key>登录</key>
+	<array>
+		<string>登录</string>
+		<string>Sign in</string>
+		<string>inicio</string>
+		<string>Melden Sie sich</string>
+		<string></string>
+		<string></string>
+		<string>залогин</string>
+		<string>connexion</string>
+		<string>Log on</string>
+	</array>
+	<key>用户未登陆，请先登陆</key>
+	<array>
+		<string>用户未登陆</string>
+		<string>User not logged in</string>
+		<string>Los usuarios no se han registrado</string>
+		<string>Benutzer nicht eingeloggt</string>
+		<string></string>
+		<string></string>
+		<string>Абонент не залогинился</string>
+		<string>Les utilisateurs ne sont pas logés</string>
+		<string>L’utente non è atterrato</string>
+	</array>
+	<key>请输入手机号码</key>
+	<array>
+		<string>请输入手机号码</string>
+		<string>Please enter your mobile number</string>
+		<string>Por favor, introduzca su número de teléfono celular</string>
+		<string>Bitte geben Sie Ihre Mobiltelefonnummer ein</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, введите номер телефона</string>
+		<string>Entrez votre numéro de téléphone portable</string>
+		<string>Digitate il numero del cellulare, per piacere</string>
+	</array>
+	<key>密码</key>
+	<array>
+		<string>密码</string>
+		<string>Password</string>
+		<string>inicio</string>
+		<string>Passwort.</string>
+		<string></string>
+		<string></string>
+		<string>код</string>
+		<string>Les mots de passe</string>
+		<string>password</string>
+	</array>
+	<key>找回密码</key>
+	<array>
+		<string>找回密码</string>
+		<string>Retrieve password</string>
+		<string>Recuperar la contraseña</string>
+		<string>Passwort abrufen</string>
+		<string></string>
+		<string></string>
+		<string>Найди пароль.</string>
+		<string>Retrouver le mot de passe</string>
+		<string>Recuperare le password</string>
+	</array>
+	<key>获取动态密码</key>
+	<array>
+		<string>获取动态密码</string>
+		<string>Get dynamic password</string>
+		<string>Obtener una contraseña dinámica</string>
+		<string>Dynamisches Passwort erhalten</string>
+		<string></string>
+		<string></string>
+		<string>Найди динамический код.</string>
+		<string>Obtenir un mot de passe dynamique</string>
+		<string>Accesso ad una password dinamica</string>
+	</array>
+	<key>请输入动态密码</key>
+	<array>
+		<string>请输入动态密码</string>
+		<string>Please enter the dynamic password</string>
+		<string>Por favor, introduzca una contraseña dinámica</string>
+		<string>Bitte geben Sie das dynamische Passwort ein</string>
+		<string></string>
+		<string></string>
+		<string>Введите динамический пароль</string>
+		<string>Entrez un mot de passe dynamique</string>
+		<string>Digitate la password dinamica</string>
+	</array>
+	<key>需6-20个字符</key>
+	<array>
+		<string>需6-50个字符</string>
+		<string>6-50 characters required</string>
+		<string>Requiere de 6 a 50 caracteres</string>
+		<string>6-50 Zeichen erforderlich</string>
+		<string></string>
+		<string></string>
+		<string>Требуется 6-50 символов</string>
+		<string>De 6 à 50 caractères</string>
+		<string>Da 6 a 50 caratteri</string>
+	</array>
+	<key>请设置新密码</key>
+	<array>
+		<string>请设置新密码</string>
+		<string>Please set a new password</string>
+		<string>Por favor, establezca una nueva contraseña</string>
+		<string>Bitte ein neues Passwort setzen</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, введите новый пароль</string>
+		<string>Veuillez établir un nouveau mot de passe</string>
+		<string>Per favore, cambiate la password</string>
+	</array>
+	<key>请输入新密码</key>
+	<array>
+		<string>请输入新密码</string>
+		<string>Please enter a new password</string>
+		<string>Por favor, introduzca una nueva contraseña</string>
+		<string>Bitte ein neues Passwort eingeben</string>
+		<string></string>
+		<string></string>
+		<string>Введите новый пароль</string>
+		<string>Entrez votre nouveau mot de passe, s’il vous plaît</string>
+		<string>Per favore digitate la nuova password</string>
+	</array>
+	<key>确定</key>
+	<array>
+		<string>确定</string>
+		<string>Determine</string>
+		<string>determinar</string>
+		<string>Bestimmen</string>
+		<string></string>
+		<string></string>
+		<string>увер</string>
+		<string>déterminer</string>
+		<string>definire</string>
+	</array>
+	<key>用户注册</key>
+	<array>
+		<string>用户注册</string>
+		<string>User registration</string>
+		<string>Registro de usuarios</string>
+		<string>Registrierung der Benutzer</string>
+		<string></string>
+		<string></string>
+		<string>Регистрация пользователей</string>
+		<string>Enregistrement des utilisateurs</string>
+		<string>Gli utenti registrati</string>
+	</array>
+	<key>确认密码</key>
+	<array>
+		<string>确认密码</string>
+		<string>Confirm password</string>
+		<string>Confirmar la contraseña</string>
+		<string>Passwort bestätigen</string>
+		<string></string>
+		<string></string>
+		<string>Подтвердите код.</string>
+		<string>Confirmation du mot de passe</string>
+		<string>Codice confermato</string>
+	</array>
+	<key>昵称</key>
+	<array>
+		<string>昵称</string>
+		<string>Nickname</string>
+		<string>apodo</string>
+		<string>Spitzname</string>
+		<string></string>
+		<string></string>
+		<string>прозвищ</string>
+		<string>surnom</string>
+		<string>soprannome</string>
+	</array>
+	<key>年龄</key>
+	<array>
+		<string>年龄</string>
+		<string>Age</string>
+		<string>edad</string>
+		<string>Alter</string>
+		<string></string>
+		<string></string>
+		<string>возраст</string>
+		<string>âge</string>
+		<string>età</string>
+	</array>
+	<key>男</key>
+	<array>
+		<string>男</string>
+		<string>male</string>
+		<string>male</string>
+		<string>männlich</string>
+		<string></string>
+		<string></string>
+		<string>мужск</string>
+		<string>Les hommes</string>
+		<string>uomo</string>
+	</array>
+	<key>女</key>
+	<array>
+		<string>女</string>
+		<string>female</string>
+		<string>Las mujeres</string>
+		<string>weiblich</string>
+		<string></string>
+		<string></string>
+		<string>женщин</string>
+		<string>Les femme</string>
+		<string>donna</string>
+	</array>
+	<key>请选择产品类型。</key>
+	<array>
+		<string>请选择产品类型。</string>
+		<string>Please select product type</string>
+		<string>Seleccione el tipo de producto.</string>
+		<string>Bitte wählen Sie den Produkttyp</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, выберите тип продукта.</string>
+		<string>Veuillez sélectionner le type de produit.</string>
+		<string>Scegliete il tipo di prodotto.</string>
+	</array>
+	<key>未登陆，请先登陆！</key>
+	<array>
+		<string>未登陆，请先登陆！</string>
+		<string>Not logged in, please log in first</string>
+		<string>Antes de aterrizar, por favor, primero!</string>
+		<string>Nicht eingeloggt, bitte zuerst einloggen</string>
+		<string></string>
+		<string></string>
+		<string>Не приземляйтесь, пожалуйста!</string>
+		<string>Non débarqué, s’il vous plait, débarqué d’abord!</string>
+		<string>Nessun sbarco, per piacere!</string>
+	</array>
+	<key>反馈信息不能为空</key>
+	<array>
+		<string>反馈信息不能为空</string>
+		<string>Feedback cannot be empty</string>
+		<string>La información de retroalimentación no debe estar vacía</string>
+		<string>Feedback kann nicht leer sein</string>
+		<string></string>
+		<string></string>
+		<string>Обратная связь не может быть пустой</string>
+		<string>Le retour d’information ne doit pas être vide</string>
+		<string>Le informazioni di ritorno non devono rimanere vuote</string>
+	</array>
+	<key>联系方式不能为空</key>
+	<array>
+		<string>联系方式不能为空</string>
+		<string>Contact information cannot be empty</string>
+		<string>Los datos de contacto no deben estar en blanco</string>
+		<string>Kontaktinformationen können nicht leer sein</string>
+		<string></string>
+		<string></string>
+		<string>Контакты не могут быть пустыми</string>
+		<string>Les coordonnées ne doivent pas être vides</string>
+		<string>I contatti non devono essere vuoti</string>
+	</array>
+	<key>请输入有效的联系方式</key>
+	<array>
+		<string>请输入有效的联系方式</string>
+		<string>Please enter a valid contact information</string>
+		<string>Por favor, introduzca una información de contacto válida</string>
+		<string>Bitte geben Sie eine gültige Kontaktdaten ein</string>
+		<string></string>
+		<string></string>
+		<string>Введите эффективную контактную информацию</string>
+		<string>Veuillez indiquer les coordonnées de contact valables</string>
+		<string>Inserire i recapiti utili</string>
+	</array>
+	<key>反馈信息最多输入100字。</key>
+	<array>
+		<string>反馈信息最多输入100字。</string>
+		<string>Input up to 100 words of feedback information.</string>
+		<string>Ingrese UN máximo de 100 palabras para la información de retroalimentación.</string>
+		<string>Eingabe bis zu 100 Worte von Feedback-Informationen</string>
+		<string></string>
+		<string></string>
+		<string>Обратная связь содержит до 100 слов.</string>
+		<string>Un maximum de 100 mots sont introduits pour le retour d’information.</string>
+		<string>Le informazioni di feedback vengono inserite al massimo 100 parole.</string>
+	</array>
+	<key>上传成功，请注意查收邮件。</key>
+	<array>
+		<string>上传成功，请注意查收邮件。</string>
+		<string>Upload succeeded, please pay attention to check the mail.</string>
+		<string>Se subió con éxito. regístrese para comprobar el correo electrónico.</string>
+		<string>Upload erfolgreich, bitte registrieren, um E-Mail zu überprüfen</string>
+		<string></string>
+		<string></string>
+		<string>Загрузка завершена, пожалуйста, зарегистрируйтесь для получения почты.</string>
+		<string>Le téléchargement a été couronné de succès, inscrivez-vous pour vérifier votre e-mail.</string>
+		<string>Caricate con successo. Registratevi per controllare la posta.</string>
+	</array>
+	<key>手机号码或密码不能为空</key>
+	<array>
+		<string>手机号码或密码不能为空</string>
+		<string>Mobile number or password cannot be empty</string>
+		<string>El número de teléfono móvil o la contraseña no deben estar en blanco</string>
+		<string>Mobiltelefon oder Passwort können nicht leer sein</string>
+		<string></string>
+		<string></string>
+		<string>Номер телефона или пароль не могут быть пустым</string>
+		<string>Le numéro de téléphone portable ou le mot de passe ne doivent pas être vides</string>
+		<string>Il numero del cellulare o la password non devono essere vuoti</string>
+	</array>
+	<key>请使用手机号或邮箱登录</key>
+	<array>
+		<string>请使用手机号或邮箱登录</string>
+		<string>Please use your mobile number or email to log in</string>
+		<string>Por favor, inicie sesión usando su número de teléfono celular o correo electrónico</string>
+		<string>Bitte benutzen Sie Ihre Mobiltelefonnummer oder E-Mail, um sich einzuloggen</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, воспользуйтесь телефоном или почтовым ящиком</string>
+		<string>Veuillez vous connecter en utilisant votre numéro de téléphone portable ou votre boîte aux lettres</string>
+		<string>Per abbonarsi, basta utilizzare il numero di telefono cellulare o il mailbox</string>
+	</array>
+	<key>用户名和密码不匹配</key>
+	<array>
+		<string>用户名和密码不匹配</string>
+		<string>User name and password do not match</string>
+		<string>El nombre de usuario y la contraseña no coinciden</string>
+		<string>Benutzername und Passwort passen nicht</string>
+		<string></string>
+		<string></string>
+		<string>Имя пользователя и пароль не совпадают</string>
+		<string>Le nom d’utilisateur et le mot de passe ne correspondent pas</string>
+		<string>Il nome utente e la password non corrispondono</string>
+	</array>
+	<key>登录失败，请确认账号和密码是否注册</key>
+	<array>
+		<string>登录失败，请确认账号和密码是否注册</string>
+		<string>Login failed, please confirm whether the account and password are registered</string>
+		<string>El inicio de sesión ha fallado, por favor verifique si su cuenta y contraseña están registradas</string>
+		<string>Anmelden fehlgeschlagen, bestätigen Sie bitte, ob das Konto und das Passwort registriert sind</string>
+		<string></string>
+		<string></string>
+		<string>Регистрация не удалась, пожалуйста, подтвердите номер счета и пароль</string>
+		<string>La connexion n’a pas fonctionné. veuillez confirmer si votre compte et votre mot de passe sont enregistrés</string>
+		<string>In caso di fallimento del log on, confermare se il numero e la password sono stati registrati</string>
+	</array>
+	<key>手机号码不能为空</key>
+	<array>
+		<string>手机号码不能为空</string>
+		<string>Mobile number cannot be empty</string>
+		<string>El número de teléfono celular no debe estar en blanco</string>
+		<string>Mobilnummer kann nicht leer sein</string>
+		<string></string>
+		<string></string>
+		<string>Номер телефона не может быть пустым</string>
+		<string>Le numéro de téléphone mobile ne doit pas être vide</string>
+		<string>Il numero del cellulare non deve essere vuoto</string>
+	</array>
+	<key>请输入正确的手机号码</key>
+	<array>
+		<string>请输入正确的手机号码</string>
+		<string>Please enter the correct cell phone number.</string>
+		<string>Por favor, introduzca el número de teléfono celular correcto</string>
+		<string>Bitte geben Sie die richtige Handynummer ein</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, введите правильный номер телефона</string>
+		<string>Veuillez indiquer le numéro de téléphone portable correct</string>
+		<string>Digitate il numero di cellulare corretto</string>
+	</array>
+	<key>年龄不能为空</key>
+	<array>
+		<string>年龄不能为空</string>
+		<string>Age cannot be empty</string>
+		<string>La edad no puede estar vacía</string>
+		<string>Alter kann nicht leer sein</string>
+		<string></string>
+		<string></string>
+		<string>Возраст не может быть пустым</string>
+		<string>L’âge ne doit pas être vide</string>
+		<string>L’età non deve essere vuota</string>
+	</array>
+	<key>昵称不能为空</key>
+	<array>
+		<string>昵称不能为空</string>
+		<string>Nickname cannot be empty</string>
+		<string>UN apodo no debe estar vacío</string>
+		<string>Nickname kann nicht leer sein</string>
+		<string></string>
+		<string></string>
+		<string>Прозвище не может быть пустым</string>
+		<string>Un pseudonyme ne doit pas être vide</string>
+		<string>Un soprannome non può essere vuoto</string>
+	</array>
+	<key>密码长度不能小于6位</key>
+	<array>
+		<string>密码长度不能小于6位</string>
+		<string>Password length cannot be less than 6 digits</string>
+		<string>La longitud de la contraseña no debe ser inferior a 6 dígitos</string>
+		<string>Länge des Passworts kann nicht weniger als 6-stellig sein</string>
+		<string></string>
+		<string></string>
+		<string>Длина пароля не может быть меньше 6 бит</string>
+		<string>La longueur du mot de passe ne doit pas être inférieure à six chiffres</string>
+		<string>La lunghezza della password non deve essere inferiore a 6 cifre</string>
+	</array>
+	<key>两次输入的密码不一致</key>
+	<array>
+		<string>两次输入的密码不一致</string>
+		<string>The two passwords are inconsistent</string>
+		<string>Las contraseñas introducidas dos veces no coinciden</string>
+		<string>Die beiden Passwörter sind inkonsistent</string>
+		<string></string>
+		<string></string>
+		<string>Два входных пароля не совпадают</string>
+		<string>Le mot de passe introduit deux fois n’est pas le même</string>
+		<string>La password inviata due volte non è coerente</string>
+	</array>
+	<key>昵称长度不能小于2位</key>
+	<array>
+		<string>昵称长度不能小于2位</string>
+		<string>Nickname length cannot be less than 2 digits</string>
+		<string>La longitud del apodo no debe ser inferior a 2 dígitos</string>
+		<string>Die Nickname-Länge kann nicht kleiner als zwei Ziffern sein</string>
+		<string></string>
+		<string></string>
+		<string>Прозвищ длин не мог меньш двух мест</string>
+		<string>La longueur du pseudonyme ne doit pas être inférieure à deux chiffres</string>
+		<string>La lunghezza del nomignolo non deve essere minore di 2 posizioni</string>
+	</array>
+	<key>请通过短信验证码验证</key>
+	<array>
+		<string>请通过短信验证码验证</string>
+		<string>Please verify by SMS verification code</string>
+		<string>Por favor, verifique con UN código de verificación SMS</string>
+		<string>Bitte durch SMS-Bestätigungscode bestätigen</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, проверьте по текстовому коду</string>
+		<string>Vérifiez par SMS</string>
+		<string>Si prega di verificare il captcha tramite SMS</string>
+	</array>
+	<key>该手机号码已经被注册。</key>
+	<array>
+		<string>该手机号码已经被注册。</string>
+		<string>The mobile number has been registered.</string>
+		<string>El número de teléfono móvil ya está registrado.</string>
+		<string>Die Mobilfunknummer wurde registriert</string>
+		<string></string>
+		<string></string>
+		<string>Номер телефона зарегистрирован.</string>
+		<string>Ce numéro de téléphone mobile a été enregistré.</string>
+		<string>Il numero di telefono cellulare è già stato registrato.</string>
+	</array>
+	<key>请确认注册信息是否正确</key>
+	<array>
+		<string>请确认注册信息是否正确</string>
+		<string>Please confirm whether the registration information is correct</string>
+		<string>Por favor verifique si la información de registro es correcta</string>
+		<string>Bitte bestätigen Sie, ob die Registrierungsinformationen korrekt sind</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, подтвердите, что регистрационная информация верна</string>
+		<string>Veuillez confirmer que les informations relatives à l’enregistrement sont exactes</string>
+		<string>La prego di confermare l’esattezza delle informazioni registrate</string>
+	</array>
+	<key>请输入短信验证码</key>
+	<array>
+		<string>请输入短信验证码</string>
+		<string>Please enter SMS verification code</string>
+		<string>Por favor, introduzca el código de verificación SMS</string>
+		<string>Bitte geben Sie SMS-Bestätigungscode ein</string>
+		<string></string>
+		<string></string>
+		<string>Введите код подтверждения сообщений</string>
+		<string>Entrez le code de vérification SMS</string>
+		<string>Per favore digitate SMS verificable captcha</string>
+	</array>
+	<key>注册成功,请先登录</key>
+	<array>
+		<string>注册成功,请先登录</string>
+		<string>Registration succeeded, please log in first</string>
+		<string>Para registrarse, por favor inicie sesión primero</string>
+		<string>Registrierung erfolgreich, bitte zuerst einloggen</string>
+		<string></string>
+		<string></string>
+		<string>Регистрация прошла успешно</string>
+		<string>Pour s’inscrire, veuillez vous connecter</string>
+		<string>In caso di successo della registrazione, connettetevi prima</string>
+	</array>
+	<key>验证码错误</key>
+	<array>
+		<string>验证码错误</string>
+		<string>verification code error</string>
+		<string>Error de captcha</string>
+		<string>Fehler bei der Überprüfung</string>
+		<string></string>
+		<string></string>
+		<string>Ошибка капча</string>
+		<string>Erreur de captcha</string>
+		<string>Errori del captatore</string>
+	</array>
+	<key>验证码发送成功</key>
+	<array>
+		<string>验证码发送成功</string>
+		<string>Verification code sent successfully</string>
+		<string>El captcha ha sido enviado con éxito</string>
+		<string>Bestätigungscode erfolgreich gesendet</string>
+		<string></string>
+		<string></string>
+		<string>Подтверждаю передачу</string>
+		<string>Le captcha a été envoyé avec succès</string>
+		<string>I captcha hanno successo</string>
+	</array>
+	<key>验证码不能为空</key>
+	<array>
+		<string>验证码不能为空</string>
+		<string>The verification code can not be empty.</string>
+		<string>El código de verificación no debe estar vacío</string>
+		<string>Der Prüfcode kann nicht leer sein</string>
+		<string></string>
+		<string></string>
+		<string>Капча не может быть пустой</string>
+		<string>Le code de vérification ne doit pas être vide</string>
+		<string>Il captcha non deve essere vuoto</string>
+	</array>
+	<key>密码设置成功，请使用新密码登录</key>
+	<array>
+		<string>密码设置成功，请使用新密码登录</string>
+		<string>The password is set successfully. Please log in with the new password</string>
+		<string>La contraseña ha sido configurada con éxito. por favor, inicie sesión con la nueva contraseña</string>
+		<string>Das Passwort ist erfolgreich eingestellt. Bitte loggen Sie sich mit dem neuen Passwort ein.</string>
+		<string></string>
+		<string></string>
+		<string>Введите новый пароль, пожалуйста</string>
+		<string>Le mot de passe a été réglé avec succès, veuillez vous connecter avec le nouveau mot de passe</string>
+		<string>Se avete successo con la password, utilizzate una nuova password per connettervi</string>
+	</array>
+	<key>设置</key>
+	<array>
+		<string>设置</string>
+		<string>Settiing</string>
+		<string>configuración</string>
+		<string>Set up</string>
+		<string></string>
+		<string></string>
+		<string>настройк</string>
+		<string>La mise en place</string>
+		<string>regolazione</string>
+	</array>
+	<key>发现</key>
+	<array>
+		<string>发现</string>
+		<string>Discover</string>
+		<string>encontró</string>
+		<string>finden</string>
+		<string></string>
+		<string></string>
+		<string>обнаруж</string>
+		<string>La découverte</string>
+		<string>scoperta</string>
+	</array>
+	<key>扫描</key>
+	<array>
+		<string>扫描</string>
+		<string>Scanning</string>
+		<string>escaneo</string>
+		<string>scanning</string>
+		<string></string>
+		<string></string>
+		<string>сканирован</string>
+		<string>balayage</string>
+		<string>scansione</string>
+	</array>
+	<key>平衡车列表</key>
+	<array>
+		<string>平衡车列表</string>
+		<string>Balance car list</string>
+		<string>Lista de vehículos de equilibrado</string>
+		<string>Ausgewogene Fahrzeugliste</string>
+		<string></string>
+		<string></string>
+		<string>Сбалансированный список машин</string>
+		<string>Liste des véhicules d’équilibrage</string>
+		<string>Elenco dei veicoli di equilibrio</string>
+	</array>
+	<key>型号</key>
+	<array>
+		<string>型号</string>
+		<string>Model</string>
+		<string>El modelo</string>
+		<string>Model</string>
+		<string></string>
+		<string></string>
+		<string>модел</string>
+		<string>Les modèles</string>
+		<string>modelli</string>
+	</array>
+	<key>故障检测</key>
+	<array>
+		<string>故障检测</string>
+		<string>Fault detection</string>
+		<string>Detección de fallos</string>
+		<string>Erkennung von Fehlern</string>
+		<string></string>
+		<string></string>
+		<string>Обнаружение дефектов</string>
+		<string>Détection des défauts</string>
+		<string>Dei guasti</string>
+	</array>
+	<key>彩灯颜色</key>
+	<array>
+		<string>彩灯颜色</string>
+		<string>Color of Lantern</string>
+		<string>Colores de las lámparas</string>
+		<string>Farbe der Laterne</string>
+		<string></string>
+		<string></string>
+		<string>Цвета огней.</string>
+		<string>Couleurs des lampes colorées</string>
+		<string>Luminarie colore</string>
+	</array>
+	<key>系统设置</key>
+	<array>
+		<string>系统设置</string>
+		<string>System setup</string>
+		<string>Configuración del sistema</string>
+		<string>Einrichtung des Systems</string>
+		<string></string>
+		<string></string>
+		<string>Настройка системы.</string>
+		<string>Configuration du système</string>
+		<string>Sistemi di</string>
+	</array>
+	<key>故障分析</key>
+	<array>
+		<string>故障分析</string>
+		<string>Fault analysis</string>
+		<string>Análisis de fallos</string>
+		<string>Analyse des Fehlers</string>
+		<string></string>
+		<string></string>
+		<string>Анализ повреждения</string>
+		<string>Analyse des défauts</string>
+		<string>Analisi guasti</string>
+	</array>
+	<key>车辆未打开或者蓝牙未开启</key>
+	<array>
+		<string>车辆未打开或者蓝牙未开启</string>
+		<string>Vehicle not on or Bluetooth not on</string>
+		<string>El vehículo no está abierto o bluetooth no está abierto</string>
+		<string>Fahrzeug nicht an oder Bluetooth nicht an</string>
+		<string></string>
+		<string></string>
+		<string>Автомобиль не включен или bluetooth не включен</string>
+		<string>Le véhicule n’est pas allumé ou bluetooth n’est pas allumé</string>
+		<string>Il veicolo non è aperto o il bluetooth non è aperto</string>
+	</array>
+	<key>蓝牙已断开</key>
+	<array>
+		<string>蓝牙已断开</string>
+		<string>Bluetooth disconnected</string>
+		<string>Bluetooth está desconectado</string>
+		<string>Bluetooth getrennt</string>
+		<string></string>
+		<string></string>
+		<string>Bluetooth отключен</string>
+		<string>Bluetooth déconnecté</string>
+		<string>L’bluetooth è stato rotto</string>
+	</array>
+	<key>左通讯</key>
+	<array>
+		<string>左通讯</string>
+		<string>Left communication</string>
+		<string>Comunicación izquierda</string>
+		<string>Linke Kommunikation</string>
+		<string></string>
+		<string></string>
+		<string>Связь слева.</string>
+		<string>Communication à gauche</string>
+		<string>L comunicazione</string>
+	</array>
+	<key>右通讯</key>
+	<array>
+		<string>右通讯</string>
+		<string>Right communication</string>
+		<string>Comunicación de la derecha</string>
+		<string>Richtige Kommunikation</string>
+		<string></string>
+		<string></string>
+		<string>Правая связь.</string>
+		<string>Communication de droite</string>
+		<string>Comunicazioni a destra</string>
+	</array>
+	<key>左电机</key>
+	<array>
+		<string>左电机</string>
+		<string>Left motor</string>
+		<string>Motor izquierdo</string>
+		<string>Linker Motor</string>
+		<string></string>
+		<string></string>
+		<string>Левый электродвигатель</string>
+		<string>Moteur gauche</string>
+		<string>Motore sinistro</string>
+	</array>
+	<key>右电机</key>
+	<array>
+		<string>右电机</string>
+		<string>Right motor</string>
+		<string>Motor derecho</string>
+		<string>Rechts Motor</string>
+		<string></string>
+		<string></string>
+		<string>Правая электромашина</string>
+		<string>Moteur à droite</string>
+		<string>Motore destro</string>
+	</array>
+	<key>正常</key>
+	<array>
+		<string>正常</string>
+		<string>normal</string>
+		<string>normal</string>
+		<string>normal</string>
+		<string></string>
+		<string></string>
+		<string>нормальн</string>
+		<string>normale</string>
+		<string>normale</string>
+	</array>
+	<key>自动变换颜色</key>
+	<array>
+		<string>自动变换颜色</string>
+		<string>Automatic color change</string>
+		<string>Cambio automático de color</string>
+		<string>Automatischer Farbwechsel</string>
+		<string></string>
+		<string></string>
+		<string>Автоматическое изменение цвета</string>
+		<string>Changement automatique de couleur</string>
+		<string>Cambio automatico del colore</string>
+	</array>
+	<key>设置限速值</key>
+	<array>
+		<string>设置限速值</string>
+		<string>Set speed limit value</string>
+		<string>Establezca el valor del límite de velocidad</string>
+		<string>Bestimmt Geschwindigkeitsgrenzwert</string>
+		<string></string>
+		<string></string>
+		<string>Установить предел скорости</string>
+		<string>Fixer une valeur limite de vitesse</string>
+		<string>Fissare i valori limite di velocità</string>
+	</array>
+	<key>注册失败，用户已经存在,请换一个用户注册</key>
+	<array>
+		<string>注册失败，用户已经存在,请换一个用户注册</string>
+		<string>Registration failed. The user already exists. Please register another user</string>
+		<string>El registro ha fallado y el usuario ya existe</string>
+		<string>Kann die registrierung nicht ablaufen, gibt es schon einen benutzer. Bitte tauschen sie den anderen aus</string>
+		<string></string>
+		<string></string>
+		<string>Регистрация не действительна, абонент уже существует</string>
+		<string>L’enregistrement a échoué, l’utilisateur existe déjà, s’il vous plaît, remplacez l’utilisateur pour l’enregistrement</string>
+		<string>In caso di fallimento della registrazione, l’utente esiste già; per favore, registratelo un altro utente</string>
+	</array>
+	<key>短信验证码已发送失败，请重新登陆获取</key>
+	<array>
+		<string>短信验证码已发送失败，请重新登陆获取</string>
+		<string>SMS verification code has been sent failed, please login again to obtain</string>
+		<string>El código de verificación de SMS no ha sido enviado, por favor vuelva a entrar para obtener</string>
+		<string>Der sms-authentifizierungscode ist nicht versendet worden. Bitte loggen sie erneut ein</string>
+		<string></string>
+		<string></string>
+		<string>Код подтверждения СМС был отправлен, пожалуйста, введите еще раз</string>
+		<string>Le code de vérification SMS a été envoyé en panne, rendez compte pour obtenir</string>
+		<string>SMS cobol è stato inviato per errore, per piacere</string>
+	</array>
+	<key>注册失败，失败信息：</key>
+	<array>
+		<string>注册失败，失败信息：</string>
+		<string>Registration failed. </string>
+		<string>Registro fallido, información faltante:</string>
+		<string>Registrierung fehlgeschlagen. Status:</string>
+		<string></string>
+		<string></string>
+		<string>Регистрация не удалась.</string>
+		<string>Échec de l’enregistrement, informations sur l’échec:</string>
+		<string>Mancata registrazione, informazioni sugli insuccessi:</string>
+	</array>
+	<key>验证码错误，请重新获取</key>
+	<array>
+		<string>验证码错误，请重新获取</string>
+		<string>Verification code error, please get it again</string>
+		<string>Error de captcha, volver a obtener</string>
+		<string>Authentifizierungsfehler. Bitte wiederholen</string>
+		<string></string>
+		<string></string>
+		<string>Ошибка капча, пожалуйста, повторите</string>
+		<string>Erreur de captcha, retrouvez</string>
+		<string>Errori del captcha, per piacere</string>
+	</array>
+	<key>产品类型不能为空</key>
+	<array>
+		<string>产品类型不能为空</string>
+		<string>The product type cannot be empty</string>
+		<string>El tipo de producto no debe estar vacío</string>
+		<string>Die produkttypen dürfen nicht Leer sein</string>
+		<string></string>
+		<string></string>
+		<string>Тип продукции не может быть пустым</string>
+		<string>Le type de produit ne doit pas être vide</string>
+		<string>Il tipo di prodotto non deve rimanere vuoto</string>
+	</array>
+	<key>上传失败，请检查网络后重新提交</key>
+	<array>
+		<string>上传失败，请检查网络后重新提交</string>
+		<string>Upload failed, please check the network and submit again</string>
+		<string>La carga falló, por favor revise la red y vuelva a enviarla</string>
+		<string>Der upload ist fehlgeschlagen. Bitte überprüfen sie das netzwerk und geben sie es erneut an</string>
+		<string></string>
+		<string></string>
+		<string>Загрузка не удалась, пожалуйста, проверьте сеть и перенаправьте ее</string>
+		<string>Le téléchargement a échoué, veuillez vérifier le réseau et le soumettre à nouveau</string>
+		<string>In caso di insuccesso del car-taggio, si prega di esaminare la rete e di presentarne una copia</string>
+	</array>
+	<key>是否确定关机</key>
+	<array>
+		<string>是否确定关机？</string>
+		<string>Are you sure to shut down?</string>
+		<string>Si está definitivamente apagado</string>
+		<string>Ob es aus ist</string>
+		<string></string>
+		<string></string>
+		<string>Вы уверены, что он выключен?</string>
+		<string>Si l’arrêt est déterminé</string>
+		<string>Si è sicuri di interrompere la macchina</string>
+	</array>
+	<key>没有找到用户</key>
+	<array>
+		<string>没有找到用户</string>
+		<string>No user found</string>
+		<string>No se encontró usuario</string>
+		<string>Kein benutzer gefunden</string>
+		<string></string>
+		<string></string>
+		<string>Абонент не найден.</string>
+		<string>Aucun utilisateur n’a été trouvé</string>
+		<string>Non trovare utenti</string>
+	</array>
+	<key>手机号码未验证,请先验证</key>
+	<array>
+		<string>手机号码未验证,请先验证</string>
+		<string>Mobile phone number has not been verified, please verify first</string>
+		<string>El número de teléfono celular no se ha verificado, por favor verifique primero</string>
+		<string>Die handynummer ist nicht überprüft. Bitte überprüfen sie sie erst</string>
+		<string></string>
+		<string></string>
+		<string>Il numero di telefono cellulare non viene verificato, per favore</string>
+		<string>Le numéro de téléphone portable n’a pas été vérifié. s’il vous plaît, vérifiez d’abord</string>
+		<string>Il numero di telefono cellulare non viene verificato, per favore</string>
+	</array>
+	<key>运动中不能修改平衡参数</key>
+	<array>
+		<string>运动中不能修改平衡参数</string>
+		<string>The equilibrium parameters cannot be modified in motion</string>
+		<string>Los parámetros de equilibrio no pueden modificarse durante el movimiento</string>
+		<string>Der gleichgewichtparameter kann bei sport nicht mehr geändert werden</string>
+		<string></string>
+		<string></string>
+		<string>Параметры баланса не могут быть изменены в движении</string>
+		<string>Les paramètres d’équilibre ne peuvent être modifiés en mouvement</string>
+		<string>I parametri di equilibrio non possono essere modificati durante la campagna</string>
+	</array>
+	<key>运动中不能修改模式</key>
+	<array>
+		<string>运动中不能修改模式</string>
+		<string>You cannot modify the mode in motion</string>
+		<string>Los patrones no pueden ser modificados durante el movimiento</string>
+		<string>Ich kann beim sport nicht das muster ändern</string>
+		<string></string>
+		<string></string>
+		<string>В движении не могут быть изменены модели</string>
+		<string>Le mode ne peut être modifié en mouvement</string>
+		<string>I modelli non possono essere modificati durante lo spostamento</string>
+	</array>
+	<key>中国广东省深圳市龙华新区观澜街道富坑社区大富工业区华印国际A栋</key>
+	<array>
+		<string>中国广东省深圳市龙华新区观澜街道富坑社区大富工业区华印国际A栋</string>
+		<string>Building A, huayin international, dafu industrial zone, fukeng community, guanlan sub-district, longhua new district, shenzhen, guangdong, China</string>
+		<string>Building A, huayin international, dafu industrial zone, fukeng community, guanlan street, longhua new district, shenzhen, guangdong, China</string>
+		<string>Chinas bezirk shenzhen in der stadt lenohua shinnosuke, provinz guangdong</string>
+		<string></string>
+		<string></string>
+		<string>Китай, Индия, международный дом а, район большой промышленной зоны в мишен-хуа, новый район шаньхуа, гуандун, Китай</string>
+		<string>Building A, huayin international, dafu industrial zone, fukeng community, guanlan street, longhua new district, shenzhen, guangdong, RPC</string>
+		<string>Xanindia international A un edificio nella zona industriale di huang, nella provincia di shenzhen, nella provincia di guangdong, cina</string>
+	</array>
+	<key>返回</key>
+	<array>
+		<string>返回</string>
+		<string>return</string>
+		<string>regreso</string>
+		<string>zurück</string>
+		<string></string>
+		<string></string>
+		<string>вернут</string>
+		<string>Le retour</string>
+		<string>ritorno</string>
+	</array>
+	<key>请输入正确的邮箱</key>
+	<array>
+		<string>请输入正确的邮箱</string>
+		<string>Please enter the correct email address</string>
+		<string>Por favor, escriba el buzón correcto</string>
+		<string>Bitte geben sie den richtigen briefkasten ein</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, введите правильный почтовый ящик</string>
+		<string>Veuillez entrer la boîte à lettres correcte</string>
+		<string>Per favore scriva la casella postale corretta</string>
+	</array>
+	<key>请输入正确的手机号</key>
+	<array>
+		<string>请输入正确的手机号</string>
+		<string>Please enter the correct phone number</string>
+		<string>Por favor, introduzca el número de teléfono correcto</string>
+		<string>Bitte geben sie die korrekte handynummer ein</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, введите правильный номер телефона</string>
+		<string>Veuillez indiquer le numéro de téléphone portable correct</string>
+		<string>Digitare il numero di cellulare giusto</string>
+	</array>
+	<key>参考语音例子 - 2 - 22 - 15 - 25 - 13参考语音例子 - 2 - 22 - 15 - 25 - 13 - 4</key>
+	<array>
+		<string>中文</string>
+		<string>英文</string>
+		<string>西班牙语</string>
+		<string>德语</string>
+		<string></string>
+		<string></string>
+		<string>俄语</string>
+		<string>法语</string>
+		<string>意大利语</string>
+	</array>
+	<key>语言</key>
+	<array>
+		<string>语言</string>
+		<string>Language</string>
+		<string>Ajustes</string>
+		<string>Spracheinstellungen </string>
+		<string>jazyková nastavení</string>
+		<string>Setări limbă</string>
+		<string>Установка языка</string>
+		<string>Paramétrer la langue</string>
+		<string>Impostazione lingua</string>
+		<string>Språkinnstilling</string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>验证码已发送，请前往注册邮箱进行验证</key>
+	<array>
+		<string>验证码已发送，请前往注册邮箱进行验证</string>
+		<string>Verification code has been sent, please go to the registered email for verification</string>
+		<string>El código de verificación ha sido enviado, por favor vaya al correo electrónico de registro para verificarlo</string>
+		<string>Authentifizierungscode gesendet bitte lesen sie autorisierte e-mail durch</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, пройдите к зарегистрированной электронной почте для подтверждения</string>
+		<string>Le code de vérification a été envoyé, veuillez vous adresser au courriel d’enregistrement pour la vérification</string>
+		<string>Il captcha è stato inviato</string>
+	</array>
+	<key>人在车上，不能关机</key>
+	<array>
+		<string>人在车上，不能关机</string>
+		<string>You can&apos;t turn it off when you&apos;re in a car</string>
+		<string>La persona está en el coche y no se puede apagar</string>
+		<string>Wir können das nicht abschalten, wenn wir im wagen sind</string>
+		<string></string>
+		<string></string>
+		<string>Человек в машине, его нельзя выключить</string>
+		<string>Les personnes sont dans le véhicule et ne peuvent pas être éteintes</string>
+		<string>La persona è sul veicolo e non può arrestarsi</string>
+	</array>
+	<key>请使用手机号码或邮箱注册</key>
+	<array>
+		<string>请使用手机号码或邮箱注册</string>
+		<string>Please use your  email to register</string>
+		<string>Please use your  email to register</string>
+		<string>Por favor, regístrese por correo electrónico con su número de teléfono móvil</string>
+		<string>Nehmen sie ihre handy-nummer zum anmelden</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, зарегистрируйтесь по телефону</string>
+		<string>Veuillez vous enregistrer en utilisant votre numéro de téléphone portable ou votre boîte aux lettres</string>
+		<string>Per abbonarsi, inviare la propria e-mail al numero di telefono cellulare</string>
+	</array>
+	<key>邮箱未验证，请重新验证</key>
+	<array>
+		<string>邮箱未验证，请重新验证</string>
+		<string>Email has not been verified, please verify again</string>
+		<string>El correo electrónico no ha sido validado, por favor vuelva a validarlo</string>
+		<string>Der briefkasten ist nicht überprüft. Bitte wiederholen</string>
+		<string></string>
+		<string></string>
+		<string>Почтовый ящик не проверен, пожалуйста, перепроверьте</string>
+		<string>La boîte aux lettres n’a pas été vérifiée. veuillez la révalider</string>
+		<string>Per ulteriori informazioni, rivolgersi a</string>
+	</array>
+	<key>发送验证码</key>
+	<array>
+		<string>发送验证码</string>
+		<string>Send verification code</string>
+		<string>Enviar UN código de verificación</string>
+		<string>Authentifizierungscode Senden</string>
+		<string></string>
+		<string></string>
+		<string>Посылать код проверки</string>
+		<string>Envoi du code de vérification</string>
+		<string>Trasmissione del captcha di verifica</string>
+	</array>
+	<key>邮件发送失败</key>
+	<array>
+		<string>邮件发送失败</string>
+		<string>The message has failed to be sent</string>
+		<string>Error en el envío del correo</string>
+		<string>Die nachricht hat nicht gesendet werden können</string>
+		<string></string>
+		<string></string>
+		<string>Отказ отправки почты</string>
+		<string>Défaut d’envoi du courrier</string>
+		<string>Mancata trasmissione della corrispondenza</string>
+	</array>
+	<key>邮件发送成功</key>
+	<array>
+		<string>邮件发送成功</string>
+		<string>Email sent successfully</string>
+		<string>Correo electrónico enviado con éxito</string>
+		<string>Ich habe fast keine schlumpfdetails mehr.</string>
+		<string></string>
+		<string></string>
+		<string>Письмо отправлено.</string>
+		<string>Courrier envoyé avec succès</string>
+		<string>Inviare un messaggio di successo</string>
+	</array>
+	<key>请输入注册时使用的邮箱或手机号码</key>
+	<array>
+		<string>请输入注册时使用的邮箱</string>
+		<string>Please enter the email you used for registration</string>
+		<string>Ingrese la dirección de correo electrónico utilizada para registrarse</string>
+		<string>Bitte geben Sie die für die Registrierung verwendete E-Mail-Adresse ein</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, введите адрес электронной почты, использованный для регистрации</string>
+		<string>Veuillez saisir l&apos;adresse email utilisée pour l&apos;enregistrement</string>
+		<string>Digitare la casella di posta elettronica o il numero di telefono utilizzato all’atto della registrazione</string>
+	</array>
+	<key>手机号或邮箱不能为空</key>
+	<array>
+		<string>手机号或邮箱不能为空</string>
+		<string>Mobile phone number or email cannot be empty</string>
+		<string>El número de teléfono celular o el buzón de correo no debe estar vacío</string>
+		<string>Das handy Oder das postfach dürfen nicht Leer sein</string>
+		<string></string>
+		<string></string>
+		<string>Номер телефона или почтового ящика не может быть пустым</string>
+		<string>Le numéro de téléphone portable ou la boîte aux lettres ne doit pas être vide</string>
+		<string>Il numero del cellulare o la casella postale non possono essere vuoti</string>
+	</array>
+	<key>邮箱不存在</key>
+	<array>
+		<string>邮箱不存在</string>
+		<string>Email does not exist</string>
+		<string>El buzón no existe</string>
+		<string>Die e-mail existiert nicht.</string>
+		<string></string>
+		<string></string>
+		<string>Почтового ящика не существует.</string>
+		<string>La boîte aux lettres n’existe pas</string>
+		<string>Indirizzo postale non disponibile</string>
+	</array>
+	<key>手机号码不存在</key>
+	<array>
+		<string>手机号码不存在</string>
+		<string>The phone number doesn&apos;t exist</string>
+		<string>El número de teléfono celular no existe</string>
+		<string>Die handynummer existiert nicht</string>
+		<string></string>
+		<string></string>
+		<string>Номер телефона не существует</string>
+		<string>Le numéro de téléphone mobile n’existe pas</string>
+		<string>Il numero di telefono cellulare non esiste</string>
+	</array>
+	<key>验证码发送失败</key>
+	<array>
+		<string>验证码发送失败</string>
+		<string>Verification code sent failed</string>
+		<string>Error en el envío del captcha</string>
+		<string>Authentifizierungscode nicht übertragen</string>
+		<string></string>
+		<string></string>
+		<string>Передача кода не удалась</string>
+		<string>Le captcha n’a pas été envoyé</string>
+		<string>I captcha non riescono a trasmettere</string>
+	</array>
+	<key>邮箱或手机号码</key>
+	<array>
+		<string>邮箱或手机号码</string>
+		<string>Email</string>
+		<string>Correo electrónico</string>
+		<string>E-Mail</string>
+		<string></string>
+		<string></string>
+		<string>электронная почта</string>
+		<string>Email</string>
+		<string>Digitare la casella di posta elettronica o il numero di telefono utilizzato all’atto della registrazione</string>
+	</array>
+	<key>请不要往同一个邮件地址发送太多邮件</key>
+	<array>
+		<string>请不要往同一个邮件地址发送太多邮件</string>
+		<string>Please don&apos;t send too many emails to the same address</string>
+		<string>Por favor, no envíe demasiados correos electrónicos a la misma dirección</string>
+		<string>Bitte Senden sie nicht zu viel Von der gleichen adresse</string>
+		<string></string>
+		<string></string>
+		<string>Пожалуйста, не отправляйте слишком много писем на Один и тот же адрес</string>
+		<string>Veuillez ne pas envoyer trop de courriels à la même adresse</string>
+		<string>Non inviare troppe e-mail allo stesso indirizzo</string>
+	</array>
+	<key>反馈内容不能少于6个字符</key>
+	<array>
+		<string>反馈内容不能少于6个字符</string>
+		<string>Feedback should not be less than 6 characters</string>
+		<string>El contenido de la retroalimentación no debe ser inferior a 6 caracteres</string>
+		<string>Die rückmeldung muss mindestens sechs zeichen enthalten</string>
+		<string></string>
+		<string></string>
+		<string>Содержание обратной связи не может быть менее шести символов</string>
+		<string>Le contenu de la rétroaction ne doit pas être inférieur à six caractères</string>
+		<string>Il contenuto del feedback non può essere inferiore a sei caratteri</string>
+	</array>
+	<key>疆游官网</key>
+	<array>
+		<string>疆游官网</string>
+		<string>Gyroor Official website </string>
+		<string>Web oficial</string>
+		<string>Offizielle Website</string>
+		<string></string>
+		<string></string>
+		<string>Официальн сайт</string>
+		<string>Site internet officiel</string>
+		<string>funzionari</string>
+	</array>
+	<key>请输入email地址</key>
+	<array>
+		<string>请输入email地址</string>
+		<string>Please enter your  email address</string>
+		<string>Por favor, introduzca su dirección de correo electrónico</string>
+		<string>Bitte geben sie ihre e-mail-adresse ein</string>
+		<string></string>
+		<string></string>
+		<string>Введите адрес электронной почты</string>
+		<string>Veuillez indiquer l’adresse électronique</string>
+		<string>Si prega di inviare l’indirizzo e-mail</string>
+	</array>
+	<key>您的联系方式:邮箱、messenger</key>
+	<array>
+		<string>您的联系方式:邮箱、messenger</string>
+		<string>Your contact information is Email, messenger</string>
+		<string>Su información de contacto por correo electrónico, messenger</string>
+		<string>Ihre kontaktdaten sind misstrauisch. Und zwar schnell</string>
+		<string></string>
+		<string></string>
+		<string>Ваши контакты, электронная почта, мессенджер</string>
+		<string>Vos coordonnées e-mail, messagerie</string>
+		<string>I vostri indirizzi Email, messenger</string>
+	</array>
+	<key>请输入电话号码</key>
+	<array>
+		<string>请输入电话号码</string>
+		<string>Please enter the telephone number</string>
+		<string>Por favor, introduzca su número de teléfono</string>
+		<string>Bitte geben sie ihre telefonnummer ein</string>
+		<string></string>
+		<string></string>
+		<string>Введите ваш номер, пожалуйста</string>
+		<string>Veuillez indiquer votre numéro de téléphone</string>
+		<string>Digitate il vostro numero</string>
+	</array>
+	<key>请输入注册时使用的邮箱</key>
+	<array>
+		<string>请输入注册时使用的邮箱</string>
+		<string>Email address used for registration</string>
+		<string>Buzón utilizado en el registro</string>
+		<string>Ein postfach, das bei der registrierung verwendet wird</string>
+		<string></string>
+		<string></string>
+		<string>Абонентский ящик при регистрации</string>
+		<string>Boîte aux lettres utilisée lors de l’enregistrement</string>
+		<string>Indirizzo postale utilizzato all’atto della registrazione</string>
+	</array>
+	<key>请输入注册时使用的手机号码</key>
+	<array>
+		<string>请输入注册时使用的手机号码</string>
+		<string>The phone number used when registering</string>
+		<string>Número de teléfono móvil utilizado al registrarse</string>
+		<string>Die bei der einschreibung verwendete handynummer</string>
+		<string></string>
+		<string></string>
+		<string>Номер мобильного, использованный при регистрации</string>
+		<string>Numéro de téléphone mobile utilisé lors de l’enregistrement</string>
+		<string>Numero di telefono cellulare utilizzato per la registrazione</string>
+	</array>
+	<key>您的联系方式:手机号码、QQ、微信</key>
+	<array>
+		<string>您的联系方式:手机号码、QQ、微信</string>
+		<string>Contact information: mobile phone number, QQ, WeChat</string>
+		<string>Datos de contacto: teléfono móvil, QQ, WeChat</string>
+		<string>Kontakt: eine handynummer, QQ, Wechat</string>
+		<string></string>
+		<string></string>
+		<string>Номер телефона, QQ, WeChat</string>
+		<string>Coordonnées: numéro de téléphone mobile, QQ, WeChat</string>
+		<string>Contatto: numero del cellulare, QQ, WeChat</string>
+	</array>
+	<key>关注社区赢礼品</key>
+	<array>
+		<string>关注社区赢礼品</string>
+		<string>Focus on winning gifts</string>
+		<string>Centrarse en los regalos ganadores</string>
+		<string>Auf den gewinn Von geschenken</string>
+		<string></string>
+		<string></string>
+		<string>Сосредоточься на выигрыше подарков</string>
+		<string>Attention aux cadeaux gagnants</string>
+		<string>Attenzione ai vantaggi</string>
+	</array>
+	<key>常见问题</key>
+	<array>
+		<string>常见问题</string>
+		<string>FAQ</string>
+		<string>FAQ</string>
+		<string>FAQ</string>
+		<string></string>
+		<string></string>
+		<string>FAQ</string>
+		<string>FAQ</string>
+		<string>FAQ</string>
+	</array>
+	<key>选择速度单位</key>
+	<array>
+		<string>选择速度单位</string>
+		<string>Selected velocity unit</string>
+		<string>Seleccione la unidad de velocidad</string>
+		<string>Einheit geschwindigkeit festlegen</string>
+		<string></string>
+		<string></string>
+		<string>Единица селективной скорости</string>
+		<string>Unité de vitesse choisie</string>
+		<string>Scelta delle unità di velocità</string>
+	</array>
+	<key>购买的订单号</key>
+	<array>
+		<string>购买的订单号</string>
+		<string>Purchase order number</string>
+		<string>Número de orden de la compra</string>
+		<string>Nicht in dieser weise</string>
+		<string></string>
+		<string></string>
+		<string>Номер заказа на покупку</string>
+		<string>Numéro d’ordre de l’achat</string>
+		<string>Numero d’ordine di acquisto</string>
+	</array>
+	<key>参考语音例子 - 2 - 22 - 15 - 25 - 13参考语音例子 - 2 - 22 - 15 - 25 - 13 - 4 - 6 - 6 - 5</key>
+	<array>
+		<string>中文</string>
+		<string>英文</string>
+		<string>西班牙语</string>
+		<string>德语</string>
+		<string></string>
+		<string></string>
+		<string>俄语</string>
+		<string>法语</string>
+		<string>意大利语</string>
+	</array>
+	<key>参考语音例子 - 2 - 22 - 15 - 25 - 13参考语音例子 - 2 - 22 - 15 - 25 - 13 - 4 - 6 - 6 - 6</key>
+	<array>
+		<string>中文</string>
+		<string>英文</string>
+		<string>西班牙语</string>
+		<string>德语</string>
+		<string></string>
+		<string></string>
+		<string>俄语</string>
+		<string>法语</string>
+		<string>意大利语</string>
+	</array>
+	<key>参考语音例子 - 2 - 22 - 15 - 25 - 13参考语音例子 - 2 - 22 - 15 - 25 - 13 - 4 - 6 - 6 - 7</key>
+	<array>
+		<string>中文</string>
+		<string>英文</string>
+		<string>西班牙语</string>
+		<string>德语</string>
+		<string></string>
+		<string></string>
+		<string>俄语</string>
+		<string>法语</string>
+		<string>意大利语</string>
+	</array>
+	<key>参考语音例子 - 2 - 22 - 15 - 25 - 13参考语音例子 - 2 - 22 - 15 - 25 - 13 - 4 - 6 - 6 - 8</key>
+	<array>
+		<string>中文</string>
+		<string>英文</string>
+		<string>西班牙语</string>
+		<string>德语</string>
+		<string></string>
+		<string></string>
+		<string>俄语</string>
+		<string>法语</string>
+		<string>意大利语</string>
+	</array>
+</dict>
+</plist>

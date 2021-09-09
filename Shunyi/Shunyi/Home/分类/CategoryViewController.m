@@ -106,26 +106,6 @@
     [self.menuView updateListWithDataArray:dataArr];
 }
 
-//#pragma mark - 如果你需要自定义cell样式，请在实现此代理方法返回你的自定义cell的class
-//- (Class)verticalMenuViewCustomCollectionViewCellClass
-//{
-//    if (self.selectBO) {
-//        return [CustomCollectionViewCell class];
-//    }
-//    return nil;
-//}
-//
-//
-//#pragma mark -  如果你需要自定义cell样式，请在实现此代理方法返回你的自定义cell的Nib。
-//- (UICollectionViewCell *)verticalMenuView:(CGXVerticalMenuCategoryView *)categoryView ListView:(CGXVerticalMenuCollectionView *)listView cellForItemAtIndexPath:(NSIndexPath *)indexPath listViewInRow:(NSInteger)row;
-//{
-//    if (self.selectBO) {
-//        CustomCollectionViewCell *cell = [listView.collectionView dequeueReusableCellWithReuseIdentifier:NSStringFromClass([CustomCollectionViewCell class]) forIndexPath:indexPath];
-//        cell.contentView.backgroundColor = APPRandomColor;
-//        return cell;
-//    }
-//    return nil;
-//}
 
 - (UICollectionReusableView *)verticalMenuView:(CGXVerticalMenuCategoryView *)categoryView ListView:(CGXVerticalMenuCollectionView *)listView KindFootAtIndexPath:(NSIndexPath *)indexPath listViewInRow:(NSInteger)row
 {

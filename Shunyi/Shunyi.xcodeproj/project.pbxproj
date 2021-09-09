@@ -68,6 +68,7 @@
 		CB30FB4126252D2A00619C60 /* CGXVerticalMenuIndicatorBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = CB30FB1726252D2A00619C60 /* CGXVerticalMenuIndicatorBackgroundView.m */; };
 		CB30FB4226252D2A00619C60 /* CGXVerticalMenuIndicatorLineView.m in Sources */ = {isa = PBXBuildFile; fileRef = CB30FB1926252D2A00619C60 /* CGXVerticalMenuIndicatorLineView.m */; };
 		CB30FB5426252F9100619C60 /* TitleHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = CB30FB5326252F9100619C60 /* TitleHeaderView.m */; };
+		CBBB583B26E1B83300B9BC62 /* language_sentence.plist in Resources */ = {isa = PBXBuildFile; fileRef = CBBB583A26E1B83300B9BC62 /* language_sentence.plist */; };
 		F5FB29CBA781D2216584B3F4 /* Pods_Shunyi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56EF86125C5C89AD8BE5AB34 /* Pods_Shunyi.framework */; };
 /* End PBXBuildFile section */
 
@@ -214,6 +215,7 @@
 		CB30FB1A26252D2A00619C60 /* CGXVerticalMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGXVerticalMenu.h; sourceTree = "<group>"; };
 		CB30FB5226252F9100619C60 /* TitleHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TitleHeaderView.h; sourceTree = "<group>"; };
 		CB30FB5326252F9100619C60 /* TitleHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TitleHeaderView.m; sourceTree = "<group>"; };
+		CBBB583A26E1B83300B9BC62 /* language_sentence.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = language_sentence.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -293,6 +295,7 @@
 				CB30FA1C2624243C00619C60 /* Home */,
 				CB30F9EA262420A700619C60 /* Assets.xcassets */,
 				CB30F9EC262420A700619C60 /* LaunchScreen.storyboard */,
+				CBBB583A26E1B83300B9BC62 /* language_sentence.plist */,
 				CB30F9EF262420A700619C60 /* Info.plist */,
 				CB30F9F0262420A700619C60 /* main.m */,
 			);
@@ -702,6 +705,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB30FA622624344500619C60 /* HomePage.storyboard in Resources */,
+				CBBB583B26E1B83300B9BC62 /* language_sentence.plist in Resources */,
 				CB30FA44262427EB00619C60 /* Login.storyboard in Resources */,
 				CB30F9EE262420A700619C60 /* LaunchScreen.storyboard in Resources */,
 				CB30FA8D262436B500619C60 /* Category.storyboard in Resources */,
